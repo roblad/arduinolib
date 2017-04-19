@@ -1,0 +1,34 @@
+#######################################
+# Syntax Colouring Map For PLL50Hz
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+PLL50Hz	KEYWORD1
+CycleData	KEYWORD1
+newCycle	KEYWORD1
+divertFlags	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+calculatePhaseShift	KEYWORD2
+updatePhaseShift	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+PLL	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+NUMSAMPLES	LITERAL1
+LOAD1BIT	LITERAL1
+LOAD2BIT	LITERAL1

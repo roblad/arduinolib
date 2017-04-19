@@ -1,0 +1,125 @@
+﻿//piny wyswietlacza
+
+
+#define PIN_SID  6
+#define PIN_SCLK 5
+#define PIN_A0   4
+#define PIN_RST  3
+
+//sterowanie po pinach to samo co command display
+
+  digitalWrite(PIN_A0, LOW);  //reset danych 
+  //funkcia do sterowania spi
+  shiftOut(PIN_SID, PIN_SCLK, MSBFIRST, CMD_SET_DISP_NORMAL);
+  shiftOut(PIN_SID, PIN_SCLK, MSBFIRST,CMD_SET_VOLUME_FIRST);
+  shiftOut(PIN_SID, PIN_SCLK, MSBFIRST,CMD_SET_VOLUME_SECOND | (0x18));
+  
+/*
+
+        /* Wszystkie linie portu D będą wyjściami */ DDRD = 0xFF; /* 0xFF binarnie 1111 1111 */
+        
+		PORTD = 0xaa;    /* 0xaa binarnie 1010 1010 */
+      /* opóźnienie 0.33 sek. */
+      _delay_ms(330); 
+       PORTD = 0x55;    /* 0x55 binarnie 0101 0101 */
+      /* opóźnienie 0.33 sek. */
+      _delay_ms(330);
+	  
+	  
+		
+		bitSet(PORTD, 5);  //1 na 5 pinie portu D
+        bitClear(PORTD, 5);  //0 na 5 pinie portu D
+
+		//sterowanie caloscia portu
+		
+		#include <avr/io.h>
+		/* Wszystkie linie portu D będą wyjściami */ 
+		DDRD = 0xFF; /* 0xFF binarnie 1111 1111 */
+		
+		
+		
+		
+		
+AND -tylko jak sa 1 to 1 na wyjsciu
+11000
+11111
+-----
+11000
+OR  - jesli jest 1 to wyjscie 1 jak 2 zera to zero
+
+00000
+11000
+-----
+11000
+
+operator "|" - bitowa alternatywa (OR) 0 1 0 1 0 1 0 1 | 0 0 1 1 0 0 1 1 = 0 1 1 1 0 1 1 1
+operator "&" - bitowa koniunkcja (AND) 0 1 0 1 0 1 0 1 & 0 0 1 1 0 0 1 1 = 0 0 0 1 0 0 0 1
+operator "^" - bitowa alternatywa wykluczająca (XOR) 0 1 0 1 0 1 0 1 ^ 0 0 1 1 0 0 1 1 = 0 1 1 0 0 1 1 0
+operator "<<" - przesunięcie w lewo 1 0 0 1 1 0 0 1 << 3 = 1 1 0 0 1 0 0 0
+operator ">>" - przesunięcie w prawo 1 0 0 1 1 0 0 1 >> 5 = 0 0 0 0 0 1 0 0
+operator "~" - dopełnienie jedynkowe ~1 0 0 1 1 0 0 1 = 0 1 1 0 0 1 1 0    -zamiana 0 na 1
+http://hobby.abxyz.bplaced.net/?pid=4&cid=1
+
+http://hobby.abxyz.bplaced.net/index.php?pid=4&aid=2
+
+*/
+
+
+//kontrast dla reverc
+
+ glcd.begin(0x20);   //dla st7565_Display_Command(CMD_SET_DISP_REVERSE);
+  glcd.begin(0x18); // dla reverse st7565_Display_Command(CMD_SET_DISP_NORMAL);
+ 
+ // zmiana wyswietlania z prawidlowym kontrastem
+ 
+ 
+delay(2000);
+st7565_Display_Command(CMD_DISPLAY_OFF);
+//glcd.refresh();
+delay(2000);
+
+st7565_Display_Command(CMD_DISPLAY_ON);
+st7565_Display_Command(CMD_SET_DISP_NORMAL);
+st7565_Display_Command(CMD_SET_VOLUME_FIRST);
+st7565_Display_Command(CMD_SET_VOLUME_SECOND | (0x18));
+st7565_Display_Command(CMD_RMW_CLEAR);
+//glcd.begin(0x18);
+glcd.refresh();
+delay (2000);
+st7565_Display_Command(CMD_DISPLAY_OFF);
+delay(2000);
+
+st7565_Display_Command(CMD_SET_DISP_REVERSE);
+st7565_Display_Command(CMD_DISPLAY_ON);
+//glcd.begin(0x20);
+st7565_Display_Command(CMD_SET_VOLUME_FIRST);
+st7565_Display_Command(CMD_SET_VOLUME_SECOND | (0x20));
+st7565_Display_Command(CMD_RMW_CLEAR);
+
+glcd.refresh();
+ 
+ 
+ //piny S1 S2 LED
+ 
+  pinMode(7, OUTPUT);   //("LED Zielona pin 7");  
+  pinMode(8, OUTPUT);   //("LED Niebieska pin 8"); 
+  pinMode(17, OUTPUT);  // ("LED Czerwona pin 17"); 
+  pinMode(15, INPUT_PULLUP);  //S1
+  pinMode(16, INPUT_PULLUP);  //S2
+ int sensorValue = analogRead(14) * 2;  //pomiar napiecia
+// Funkcja do zmiany parametrow ekranu zgodnie z glcdsensbase do modyfikacji
+static void st7565_Display_Command(byte c) {
+    #include <GLCD_ST7565_cmds.h>
+    bitClear(PORTD, 4);
+    
+    for (byte mask = 0x80; mask != 0; mask >>= 1) {
+        bitWrite(PORTD, 6, c & mask);
+        // this is 15% faster, but it's too fast for this chip...
+        //PIND = bit(4);
+        // even plain set/clear is too fast, so slow down a bit more
+        bitSet(PORTD, 5);
+        bitClear(PORTD, 5);
+    }
+}
+
+  

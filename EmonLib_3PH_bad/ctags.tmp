@@ -1,0 +1,77 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_MOD_BY	Bostjan Mihoric	/ccompletion@gmail.com/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	/unofficial modification/
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	/unofficial modification/
+ADC_BITS	EmonLib_3PH.h	28;"	macro
+ADC_BITS	EmonLib_3PH.h	30;"	macro
+ADC_COUNTS	EmonLib_3PH.h	33;"	macro
+EmonLib_3PH_h	EmonLib_3PH.h	11;"	macro
+EnergyMonitor	EmonLib_3PH.h	43;"	class
+ICAL	EmonLib_3PH.h	73;"	member	class:EnergyMonitor
+I_RATIO	EmonLib_3PH.cpp	246;"	local
+I_RATIO	EmonLib_3PH.cpp	289;"	local
+Irms	EmonLib_3PH.h	63;"	member	class:EnergyMonitor
+PHASE	EmonLib_3PH.h	75;"	member	class:EnergyMonitor
+PHASE2	EmonLib_3PH.h	36;"	macro
+PHASE3	EmonLib_3PH.h	37;"	macro
+PHASECAL	EmonLib_3PH.h	74;"	member	class:EnergyMonitor
+SUPPLYVOLTAGE	EmonLib_3PH.cpp	266;"	local
+SUPPLYVOLTAGE	EmonLib_3PH.cpp	72;"	local
+VCAL	EmonLib_3PH.h	72;"	member	class:EnergyMonitor
+V_RATIO	EmonLib_3PH.cpp	243;"	local
+Vrms	EmonLib_3PH.h	62;"	member	class:EnergyMonitor
+apparentPower	EmonLib_3PH.h	60;"	member	class:EnergyMonitor
+calcIrms	EmonLib_3PH.cpp	262;"	function	class:EnergyMonitor
+calcIrms	EmonLib_3PH.h	54;"	prototype	class:EnergyMonitor
+calcVI	EmonLib_3PH.cpp	69;"	function	class:EnergyMonitor
+calcVI	EmonLib_3PH.h	53;"	prototype	class:EnergyMonitor
+checkVCross	EmonLib_3PH.cpp	83;"	local
+checkVCross	EmonLib_3PH.h	96;"	member	class:EnergyMonitor
+crossCount	EmonLib_3PH.cpp	76;"	local
+current	EmonLib_3PH.cpp	35;"	function	class:EnergyMonitor
+current	EmonLib_3PH.h	48;"	prototype	class:EnergyMonitor
+currentTX	EmonLib_3PH.cpp	54;"	function	class:EnergyMonitor
+currentTX	EmonLib_3PH.h	51;"	prototype	class:EnergyMonitor
+filteredI	EmonLib_3PH.h	87;"	member	class:EnergyMonitor
+filteredV	EmonLib_3PH.h	85;"	member	class:EnergyMonitor
+inPinI	EmonLib_3PH.h	69;"	member	class:EnergyMonitor
+inPinV	EmonLib_3PH.h	68;"	member	class:EnergyMonitor
+instP	EmonLib_3PH.h	93;"	member	class:EnergyMonitor
+lastFilteredV	EmonLib_3PH.h	85;"	member	class:EnergyMonitor
+lastVCross	EmonLib_3PH.cpp	83;"	local
+lastVCross	EmonLib_3PH.h	96;"	member	class:EnergyMonitor
+numberOfPowerSamples	EmonLib_3PH.cpp	82;"	local
+numberOfSamples	EmonLib_3PH.cpp	78;"	local
+offsetI	EmonLib_3PH.h	89;"	member	class:EnergyMonitor
+offsetV	EmonLib_3PH.h	88;"	member	class:EnergyMonitor
+phaseShiftedV	EmonLib_3PH.h	91;"	member	class:EnergyMonitor
+powerFactor	EmonLib_3PH.h	61;"	member	class:EnergyMonitor
+print	EmonLib_3PH.cpp	301;"	prototype	file:
+print	EmonLib_3PH.cpp	303;"	prototype	file:
+print	EmonLib_3PH.cpp	305;"	prototype	file:
+print	EmonLib_3PH.cpp	307;"	prototype	file:
+print	EmonLib_3PH.cpp	309;"	prototype	file:
+readVcc	EmonLib_3PH.cpp	317;"	function	class:EnergyMonitor
+readVcc	EmonLib_3PH.h	57;"	prototype	class:EnergyMonitor
+realPower	EmonLib_3PH.h	59;"	member	class:EnergyMonitor
+result	EmonLib_3PH.cpp	318;"	local
+sampleI	EmonLib_3PH.h	83;"	member	class:EnergyMonitor
+sampleV	EmonLib_3PH.h	81;"	member	class:EnergyMonitor
+serialprint	EmonLib_3PH.cpp	299;"	function	class:EnergyMonitor
+serialprint	EmonLib_3PH.h	55;"	prototype	class:EnergyMonitor
+sqI	EmonLib_3PH.h	93;"	member	class:EnergyMonitor
+sqV	EmonLib_3PH.h	93;"	member	class:EnergyMonitor
+st	EmonLib_3PH.cpp	92;"	local
+start	EmonLib_3PH.cpp	94;"	local
+startV	EmonLib_3PH.h	95;"	member	class:EnergyMonitor
+storedV	EmonLib_3PH.cpp	84;"	local
+sumI	EmonLib_3PH.h	93;"	member	class:EnergyMonitor
+sumP	EmonLib_3PH.h	93;"	member	class:EnergyMonitor
+sumV	EmonLib_3PH.h	93;"	member	class:EnergyMonitor
+voltage	EmonLib_3PH.cpp	26;"	function	class:EnergyMonitor
+voltage	EmonLib_3PH.h	47;"	prototype	class:EnergyMonitor
+voltageTX	EmonLib_3PH.cpp	45;"	function	class:EnergyMonitor
+voltageTX	EmonLib_3PH.h	50;"	prototype	class:EnergyMonitor

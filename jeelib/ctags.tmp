@@ -1,0 +1,1393 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_MOD_BY	Bostjan Mihoric	/ccompletion@gmail.com/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	/unofficial modification/
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	/unofficial modification/
+A	Ports.h	605;"	member	class:HeadingBoard
+AFC_CLEAR	RF69.cpp	39;"	macro	file:
+ALLCALLADR	Ports.h	476;"	enumerator	enum:DimmerPlug::__anon4
+ALL_OFF	Ports.h	402;"	enumerator	enum:BlinkPlug::__anon3
+ALL_ON	Ports.h	402;"	enumerator	enum:BlinkPlug::__anon3
+ANA_MASK	Ports.cpp	24;"	macro	file:
+ATOMIC_BLOCK	Ports.cpp	1116;"	function
+ATOMIC_BLOCK	Ports.cpp	1127;"	function
+ATOMIC_BLOCK	Ports.cpp	664;"	function
+ATOMIC_BLOCK	Ports.cpp	862;"	function
+AnalogPlug	Ports.h	651;"	class
+AnalogPlug	Ports.h	654;"	function	class:AnalogPlug
+B	Ports.h	605;"	member	class:HeadingBoard
+BLOCKREAD	Ports.h	685;"	enumerator	enum:ColorPlug::__anon11
+BMP085	PortsBMP085.h	25;"	function	class:BMP085
+BMP085	PortsBMP085.h	8;"	class
+BODS	Ports.cpp	17;"	macro	file:
+BODSE	Ports.cpp	16;"	macro	file:
+BlinkPlug	Ports.h	397;"	class
+BlinkPlug	Ports.h	406;"	function	class:BlinkPlug
+C	Ports.h	605;"	member	class:HeadingBoard
+C1	Ports.h	604;"	member	class:HeadingBoard
+C1	PortsSHT11.cpp	193;"	local
+C2	Ports.h	604;"	member	class:HeadingBoard
+C2	PortsSHT11.cpp	194;"	local
+C3	Ports.h	604;"	member	class:HeadingBoard
+C3	PortsSHT11.cpp	195;"	local
+C4	Ports.h	604;"	member	class:HeadingBoard
+C5	Ports.h	604;"	member	class:HeadingBoard
+C6	Ports.h	604;"	member	class:HeadingBoard
+C7	Ports.h	604;"	member	class:HeadingBoard
+CH_SCALE	Ports.cpp	574;"	macro	file:
+CONFIG	Ports.h	638;"	enumerator	enum:ProximityPlug::__anon9
+CONTROL	Ports.h	493;"	enumerator	enum:LuxPlug::__anon6
+CONTROL	Ports.h	681;"	enumerator	enum:ColorPlug::__anon11
+CPID	Ports.h	681;"	enumerator	enum:ColorPlug::__anon11
+ColorPlug	Ports.h	676;"	class
+ColorPlug	Ports.h	688;"	function	class:ColorPlug
+Commands	Ports.h	714;"	typedef	class:InputParser
+CompassBoard	Ports.h	623;"	class
+CompassBoard	Ports.h	626;"	function	class:CompassBoard
+D	Ports.h	605;"	member	class:HeadingBoard
+D1	Ports.cpp	753;"	local
+D2	Ports.cpp	742;"	local
+DATA0HIGH	Ports.h	496;"	enumerator	enum:LuxPlug::__anon6
+DATA0HIGH	Ports.h	683;"	enumerator	enum:ColorPlug::__anon11
+DATA0LOW	Ports.h	496;"	enumerator	enum:LuxPlug::__anon6
+DATA0LOW	Ports.h	683;"	enumerator	enum:ColorPlug::__anon11
+DATA1HIGH	Ports.h	496;"	enumerator	enum:LuxPlug::__anon6
+DATA1HIGH	Ports.h	683;"	enumerator	enum:ColorPlug::__anon11
+DATA1LOW	Ports.h	496;"	enumerator	enum:LuxPlug::__anon6
+DATA1LOW	Ports.h	683;"	enumerator	enum:ColorPlug::__anon11
+DATA2HIGH	Ports.h	684;"	enumerator	enum:ColorPlug::__anon11
+DATA2LOW	Ports.h	684;"	enumerator	enum:ColorPlug::__anon11
+DATA3HIGH	Ports.h	684;"	enumerator	enum:ColorPlug::__anon11
+DATA3LOW	Ports.h	684;"	enumerator	enum:ColorPlug::__anon11
+DEBUG	RF12sio.cpp	12;"	macro	file:
+DELTA	RF12.cpp	956;"	macro	file:
+DHTxx	Ports.cpp	981;"	function	class:DHTxx
+DHTxx	Ports.h	666;"	class
+DHTxx	Ports.h	669;"	prototype	class:DHTxx
+DIG_CHANGE	Ports.cpp	22;"	macro	file:
+DLH	Ports.cpp	430;"	macro	file:
+DLL	Ports.cpp	429;"	macro	file:
+DMAP1_PACKETSENT	RF69.cpp	35;"	macro	file:
+DMAP1_PAYLOADREADY	RF69.cpp	36;"	macro	file:
+DMAP1_SYNCADDRESS	RF69.cpp	37;"	macro	file:
+Data	Ports.h	168;"	typedef	class:RemoteNode
+DeviceI2C	Ports.h	266;"	class
+DeviceI2C	Ports.h	271;"	function	class:DeviceI2C
+DimmerPlug	Ports.h	468;"	class
+DimmerPlug	Ports.h	479;"	function	class:DimmerPlug
+ECEMR	Ports.h	637;"	enumerator	enum:ProximityPlug::__anon9
+EIMSK	RF69_avr.h	114;"	macro
+FAULT	Ports.h	635;"	enumerator	enum:ProximityPlug::__anon9
+FCR	Ports.cpp	431;"	macro	file:
+FIFO	Ports.h	635;"	enumerator	enum:ProximityPlug::__anon9
+F_1	RF12sio.h	8;"	enumerator	enum:RF12::__anon18
+F_2	RF12sio.h	8;"	enumerator	enum:RF12::__anon18
+F_4	RF12sio.h	8;"	enumerator	enum:RF12::__anon18
+F_8	RF12sio.h	8;"	enumerator	enum:RF12::__anon18
+F_EXT	RF12sio.h	8;"	enumerator	enum:RF12::__anon18
+F_STR	RF12sio.h	8;"	enumerator	enum:RF12::__anon18
+GAIN	Ports.h	681;"	enumerator	enum:ColorPlug::__anon11
+GRPFREQ	Ports.h	474;"	enumerator	enum:DimmerPlug::__anon4
+GRPPWM	Ports.h	474;"	enumerator	enum:DimmerPlug::__anon4
+GravityPlug	Ports.h	538;"	class
+GravityPlug	Ports.h	543;"	function	class:GravityPlug
+HUMI	PortsSHT11.h	23;"	enumerator	enum:SHT11::__anon16
+HYT131	Ports.h	525;"	class
+HYT131	Ports.h	528;"	function	class:HYT131
+HeadingBoard	Ports.h	600;"	class
+HeadingBoard	Ports.h	612;"	function	class:HeadingBoard
+INTERRUPT	Ports.h	494;"	enumerator	enum:LuxPlug::__anon6
+INTERRUPT	Ports.h	681;"	enumerator	enum:ColorPlug::__anon11
+INTERRUPTSOURCE	Ports.h	681;"	enumerator	enum:ColorPlug::__anon11
+IRQ1_MODEREADY	RF69.cpp	26;"	macro	file:
+IRQ1_RXREADY	RF69.cpp	27;"	macro	file:
+IRQ2_FIFOFULL	RF69.cpp	29;"	macro	file:
+IRQ2_FIFONOTEMPTY	RF69.cpp	30;"	macro	file:
+IRQ2_FIFOOVERRUN	RF69.cpp	31;"	macro	file:
+IRQ2_PACKETSENT	RF69.cpp	32;"	macro	file:
+IRQ2_PAYLOADREADY	RF69.cpp	33;"	macro	file:
+IRQ_ENABLE	RF69_avr.h	12;"	macro
+ISR	RF12.cpp	374;"	function
+ISR	RF12.cpp	379;"	function
+ISR	RF12.cpp	384;"	function
+InfraredPlug	Ports.cpp	817;"	function	class:InfraredPlug
+InfraredPlug	Ports.h	570;"	class
+InfraredPlug	Ports.h	576;"	prototype	class:InfraredPlug
+InputParser	Ports.cpp	1263;"	function	class:InputParser
+InputParser	Ports.cpp	1268;"	function	class:InputParser
+InputParser	Ports.h	708;"	class
+InputParser	Ports.h	717;"	prototype	class:InputParser
+InputParser	Ports.h	718;"	prototype	class:InputParser
+InputPlug	Ports.h	561;"	class
+InputPlug	Ports.h	564;"	function	class:InputPlug
+JeeLib_h	JeeLib.h	5;"	macro
+KHZ100	Ports.h	241;"	enumerator	enum:PortI2C::__anon2
+KHZ400	Ports.h	241;"	enumerator	enum:PortI2C::__anon2
+KHZMAX	Ports.h	241;"	enumerator	enum:PortI2C::__anon2
+LCD_1LINE	PortsLCD.h	48;"	macro
+LCD_2LINE	PortsLCD.h	47;"	macro
+LCD_4BITMODE	PortsLCD.h	46;"	macro
+LCD_5x10DOTS	PortsLCD.h	49;"	macro
+LCD_5x8DOTS	PortsLCD.h	50;"	macro
+LCD_8BITMODE	PortsLCD.h	45;"	macro
+LCD_BLINKOFF	PortsLCD.h	36;"	macro
+LCD_BLINKON	PortsLCD.h	35;"	macro
+LCD_CLEARDISPLAY	PortsLCD.h	15;"	macro
+LCD_CURSORMOVE	PortsLCD.h	40;"	macro
+LCD_CURSOROFF	PortsLCD.h	34;"	macro
+LCD_CURSORON	PortsLCD.h	33;"	macro
+LCD_CURSORSHIFT	PortsLCD.h	19;"	macro
+LCD_DISPLAYCONTROL	PortsLCD.h	18;"	macro
+LCD_DISPLAYMOVE	PortsLCD.h	39;"	macro
+LCD_DISPLAYOFF	PortsLCD.h	32;"	macro
+LCD_DISPLAYON	PortsLCD.h	31;"	macro
+LCD_ENTRYLEFT	PortsLCD.h	26;"	macro
+LCD_ENTRYMODESET	PortsLCD.h	17;"	macro
+LCD_ENTRYRIGHT	PortsLCD.h	25;"	macro
+LCD_ENTRYSHIFTDECREMENT	PortsLCD.h	28;"	macro
+LCD_ENTRYSHIFTINCREMENT	PortsLCD.h	27;"	macro
+LCD_FUNCTIONSET	PortsLCD.h	20;"	macro
+LCD_MOVELEFT	PortsLCD.h	42;"	macro
+LCD_MOVERIGHT	PortsLCD.h	41;"	macro
+LCD_RETURNHOME	PortsLCD.h	16;"	macro
+LCD_SETCGRAMADDR	PortsLCD.h	21;"	macro
+LCD_SETDDRAMADDR	PortsLCD.h	22;"	macro
+LCR	Ports.cpp	432;"	macro	file:
+LEDOUT0	Ports.h	475;"	enumerator	enum:DimmerPlug::__anon4
+LEDOUT1	Ports.h	475;"	enumerator	enum:DimmerPlug::__anon4
+LEDOUT2	Ports.h	475;"	enumerator	enum:DimmerPlug::__anon4
+LEDOUT3	Ports.h	475;"	enumerator	enum:DimmerPlug::__anon4
+LPCR	Ports.h	637;"	enumerator	enum:ProximityPlug::__anon9
+LUXID	Ports.h	495;"	enumerator	enum:LuxPlug::__anon6
+LUX_SCALE	Ports.cpp	572;"	macro	file:
+LiquidCrystal	PortsLCD.cpp	210;"	function	class:LiquidCrystal
+LiquidCrystal	PortsLCD.cpp	216;"	function	class:LiquidCrystal
+LiquidCrystal	PortsLCD.cpp	222;"	function	class:LiquidCrystal
+LiquidCrystal	PortsLCD.cpp	228;"	function	class:LiquidCrystal
+LiquidCrystal	PortsLCD.h	101;"	class
+LiquidCrystal	PortsLCD.h	103;"	prototype	class:LiquidCrystal
+LiquidCrystal	PortsLCD.h	105;"	prototype	class:LiquidCrystal
+LiquidCrystal	PortsLCD.h	107;"	prototype	class:LiquidCrystal
+LiquidCrystal	PortsLCD.h	109;"	prototype	class:LiquidCrystal
+LiquidCrystalBase	PortsLCD.h	57;"	class
+LiquidCrystalBase	PortsLCD.h	59;"	function	class:LiquidCrystalBase
+LiquidCrystalI2C	PortsLCD.cpp	335;"	function	class:LiquidCrystalI2C
+LiquidCrystalI2C	PortsLCD.h	133;"	class
+LiquidCrystalI2C	PortsLCD.h	136;"	prototype	class:LiquidCrystalI2C
+LiquidCrystal_h	PortsLCD.h	4;"	macro
+LuxPlug	Ports.h	489;"	class
+LuxPlug	Ports.h	499;"	function	class:LuxPlug
+MCP_BACKLIGHT	PortsLCD.cpp	330;"	macro	file:
+MCP_DEFVAL	PortsLCD.cpp	325;"	enumerator	enum:__anon14	file:
+MCP_ENABLE	PortsLCD.cpp	331;"	macro	file:
+MCP_GPINTEN	PortsLCD.cpp	325;"	enumerator	enum:__anon14	file:
+MCP_GPIO	PortsLCD.cpp	326;"	enumerator	enum:__anon14	file:
+MCP_GPPU	PortsLCD.cpp	326;"	enumerator	enum:__anon14	file:
+MCP_INTCAP	PortsLCD.cpp	326;"	enumerator	enum:__anon14	file:
+MCP_INTCON	PortsLCD.cpp	325;"	enumerator	enum:__anon14	file:
+MCP_INTF	PortsLCD.cpp	326;"	enumerator	enum:__anon14	file:
+MCP_IOCON	PortsLCD.cpp	325;"	enumerator	enum:__anon14	file:
+MCP_IODIR	PortsLCD.cpp	325;"	enumerator	enum:__anon14	file:
+MCP_IPOL	PortsLCD.cpp	325;"	enumerator	enum:__anon14	file:
+MCP_OLAT	PortsLCD.cpp	326;"	enumerator	enum:__anon14	file:
+MCP_OTHER	PortsLCD.cpp	332;"	macro	file:
+MCP_REGSEL	PortsLCD.cpp	333;"	macro	file:
+MEASURE_HUMI	PortsSHT11.cpp	18;"	enumerator	enum:__anon15	file:
+MEASURE_TEMP	PortsSHT11.cpp	17;"	enumerator	enum:__anon15	file:
+MNTPR	Ports.h	637;"	enumerator	enum:ProximityPlug::__anon9
+MODE1	Ports.h	471;"	enumerator	enum:DimmerPlug::__anon4
+MODE2	Ports.h	471;"	enumerator	enum:DimmerPlug::__anon4
+MODE_CHANGE	Ports.cpp	21;"	macro	file:
+MODE_RECEIVER	RF69.cpp	23;"	macro	file:
+MODE_SLEEP	RF69.cpp	21;"	macro	file:
+MODE_STANDBY	RF69.cpp	22;"	macro	file:
+MODE_TRANSMITTER	RF69.cpp	24;"	macro	file:
+MTPR	Ports.h	637;"	enumerator	enum:ProximityPlug::__anon9
+MX	RF12.cpp	957;"	macro	file:
+MemoryPlug	Ports.h	420;"	class
+MemoryPlug	Ports.h	423;"	function	class:MemoryPlug
+MemoryStream	Ports.h	431;"	class
+MemoryStream	Ports.h	437;"	function	class:MemoryStream
+MilliTimer	Ports.h	313;"	class
+MilliTimer	Ports.h	317;"	function	class:MilliTimer
+NEC	Ports.h	587;"	enumerator	enum:InfraredPlug::__anon8
+NEC_REP	Ports.h	587;"	enumerator	enum:InfraredPlug::__anon8
+NODE_BAND	RF12.cpp	133;"	macro	file:
+NODE_ID	RF12.cpp	134;"	macro	file:
+OFF	Ports.cpp	756;"	local
+OFF1	Ports.h	402;"	enumerator	enum:BlinkPlug::__anon3
+OFF2	Ports.h	402;"	enumerator	enum:BlinkPlug::__anon3
+ON1	Ports.h	402;"	enumerator	enum:BlinkPlug::__anon3
+ON2	Ports.h	402;"	enumerator	enum:BlinkPlug::__anon3
+PRES	PortsBMP085.h	18;"	enumerator	enum:BMP085::__anon13
+PROGMEM	PortsSHT11.cpp	24;"	variable	file:
+PWM0	Ports.h	472;"	enumerator	enum:DimmerPlug::__anon4
+PWM1	Ports.h	472;"	enumerator	enum:DimmerPlug::__anon4
+PWM10	Ports.h	473;"	enumerator	enum:DimmerPlug::__anon4
+PWM11	Ports.h	473;"	enumerator	enum:DimmerPlug::__anon4
+PWM12	Ports.h	473;"	enumerator	enum:DimmerPlug::__anon4
+PWM13	Ports.h	473;"	enumerator	enum:DimmerPlug::__anon4
+PWM14	Ports.h	473;"	enumerator	enum:DimmerPlug::__anon4
+PWM15	Ports.h	473;"	enumerator	enum:DimmerPlug::__anon4
+PWM2	Ports.h	472;"	enumerator	enum:DimmerPlug::__anon4
+PWM3	Ports.h	472;"	enumerator	enum:DimmerPlug::__anon4
+PWM4	Ports.h	472;"	enumerator	enum:DimmerPlug::__anon4
+PWM5	Ports.h	472;"	enumerator	enum:DimmerPlug::__anon4
+PWM6	Ports.h	472;"	enumerator	enum:DimmerPlug::__anon4
+PWM7	Ports.h	472;"	enumerator	enum:DimmerPlug::__anon4
+PWM8	Ports.h	473;"	enumerator	enum:DimmerPlug::__anon4
+PWM9	Ports.h	473;"	enumerator	enum:DimmerPlug::__anon4
+PWM_CHANGE	Ports.cpp	23;"	macro	file:
+Port	Ports.h	33;"	class
+Port	Ports.h	82;"	function	class:Port
+PortI2C	Ports.cpp	182;"	function	class:PortI2C
+PortI2C	Ports.h	213;"	class
+PortI2C	Ports.h	247;"	prototype	class:PortI2C
+Ports_h	Ports.h	4;"	macro
+PreventInterrupt	RF69_avr.h	117;"	struct
+PreventInterrupt	RF69_avr.h	118;"	function	struct:PreventInterrupt
+ProximityPlug	Ports.h	632;"	class
+ProximityPlug	Ports.h	641;"	function	class:ProximityPlug
+RATIO_SCALE	Ports.cpp	573;"	macro	file:
+REG_AESKEY1	RF69.cpp	19;"	macro	file:
+REG_AFCFEI	RF69.cpp	8;"	macro	file:
+REG_DIOMAPPING1	RF69.cpp	10;"	macro	file:
+REG_FIFO	RF69.cpp	5;"	macro	file:
+REG_FRFMSB	RF69.cpp	7;"	macro	file:
+REG_IRQFLAGS1	RF69.cpp	11;"	macro	file:
+REG_IRQFLAGS2	RF69.cpp	12;"	macro	file:
+REG_NODEADRS	RF69.cpp	17;"	macro	file:
+REG_OPMODE	RF69.cpp	6;"	macro	file:
+REG_PACKETCONFIG2	RF69.cpp	18;"	macro	file:
+REG_RSSIVALUE	RF69.cpp	9;"	macro	file:
+REG_SYNCCONFIG	RF69.cpp	13;"	macro	file:
+REG_SYNCVALUE1	RF69.cpp	14;"	macro	file:
+REG_SYNCVALUE2	RF69.cpp	15;"	macro	file:
+REG_SYNCVALUE3	RF69.cpp	16;"	macro	file:
+RESET	PortsSHT11.cpp	21;"	enumerator	enum:__anon15	file:
+RETRIES	RF12.cpp	151;"	macro	file:
+RETRIES	RF69_compat.cpp	12;"	macro	file:
+RETRY_MS	RF12.cpp	152;"	macro	file:
+RETRY_MS	RF69_compat.cpp	13;"	macro	file:
+RF12	RF12sio.h	19;"	function	class:RF12
+RF12	RF12sio.h	7;"	class
+RF12_433MHZ	RF12.h	56;"	macro
+RF12_868MHZ	RF12.h	57;"	macro
+RF12_915MHZ	RF12.h	58;"	macro
+RF12_ACK_REPLY	RF12.h	70;"	macro
+RF12_COMPAT	RF12.h	11;"	macro
+RF12_DATA_RATE_1	RF12.h	169;"	enumerator	enum:rf12DataRates
+RF12_DATA_RATE_2	RF12.h	168;"	enumerator	enum:rf12DataRates
+RF12_DATA_RATE_3	RF12.h	167;"	enumerator	enum:rf12DataRates
+RF12_DATA_RATE_4	RF12.h	166;"	enumerator	enum:rf12DataRates
+RF12_DATA_RATE_5	RF12.h	165;"	enumerator	enum:rf12DataRates
+RF12_DATA_RATE_6	RF12.h	164;"	enumerator	enum:rf12DataRates
+RF12_DATA_RATE_7	RF12.h	163;"	enumerator	enum:rf12DataRates
+RF12_DATA_RATE_8	RF12.h	162;"	enumerator	enum:rf12DataRates
+RF12_DATA_RATE_9	RF12.h	161;"	enumerator	enum:rf12DataRates
+RF12_DATA_RATE_CMD	RF12.h	160;"	enumerator	enum:rf12DataRates
+RF12_DATA_RATE_DEFAULT	RF12.h	170;"	enumerator	enum:rf12DataRates
+RF12_EEPROM_ADDR	RF12.h	61;"	macro
+RF12_EEPROM_EKEY	RF12.h	63;"	macro
+RF12_EEPROM_ELEN	RF12.h	64;"	macro
+RF12_EEPROM_SIZE	RF12.h	62;"	macro
+RF12_EEPROM_VERSION	RF12.h	65;"	macro
+RF12_HDR_ACK	RF12.h	31;"	macro
+RF12_HDR_ACK	RF12.h	47;"	macro
+RF12_HDR_CTL	RF12.h	29;"	macro
+RF12_HDR_CTL	RF12.h	43;"	macro
+RF12_HDR_DST	RF12.h	30;"	macro
+RF12_HDR_DST	RF12.h	45;"	macro
+RF12_HDR_MASK	RF12.h	32;"	macro
+RF12_HDR_MASK	RF12.h	49;"	macro
+RF12_MAXDATA	RF12.h	54;"	macro
+RF12_SLEEP	RF12.h	74;"	macro
+RF12_VERSION	RF12.h	18;"	macro
+RF12_WAKEUP	RF12.h	75;"	macro
+RF12_WANTS_ACK	RF12.h	68;"	macro
+RF12_h	RF12.h	4;"	macro
+RF69	RF69.cpp	46;"	namespace	file:
+RF69	RF69.h	4;"	namespace
+RF69_COMPAT	JeeLib.h	14;"	macro
+RF69_compat_h	RF69_compat.h	6;"	macro
+RF69_h	RF69.h	2;"	macro
+RFM_IRQ	RF12.cpp	104;"	macro	file:
+RFM_IRQ	RF12.cpp	55;"	macro	file:
+RFM_IRQ	RF12.cpp	67;"	macro	file:
+RFM_IRQ	RF12.cpp	79;"	macro	file:
+RFM_IRQ	RF12.cpp	91;"	macro	file:
+RFM_IRQ	RF69_avr.h	16;"	macro
+RFM_IRQ	RF69_avr.h	35;"	macro
+RFM_IRQ	RF69_avr.h	54;"	macro
+RFM_IRQ	RF69_avr.h	75;"	macro
+RF_IDLE_MODE	RF12.cpp	121;"	macro	file:
+RF_LBD_BIT	RF12.cpp	129;"	macro	file:
+RF_MAX	RF12.cpp	40;"	macro	file:
+RF_MAX	RF69.cpp	41;"	macro	file:
+RF_RECEIVER_ON	RF12.cpp	119;"	macro	file:
+RF_RECV_CONTROL	RF12.cpp	118;"	macro	file:
+RF_RSSI_BIT	RF12.cpp	130;"	macro	file:
+RF_RX_FIFO_READ	RF12.cpp	125;"	macro	file:
+RF_SLEEP_MODE	RF12.cpp	122;"	macro	file:
+RF_TXREG_WRITE	RF12.cpp	124;"	macro	file:
+RF_WAKEUP_MODE	RF12.cpp	123;"	macro	file:
+RF_WAKEUP_TIMER	RF12.cpp	126;"	macro	file:
+RF_XMITTER_ON	RF12.cpp	120;"	macro	file:
+RHR	Ports.cpp	427;"	macro	file:
+ROM_DATA	RF69.cpp	57;"	variable	file:
+ROM_DATA	RF69_avr.h	10;"	macro
+ROM_READ_UINT8	RF69_avr.h	9;"	macro
+ROM_UINT8	RF69_avr.h	8;"	macro
+RXLVL	Ports.cpp	433;"	macro	file:
+RemoteHandler	Ports.h	183;"	class
+RemoteNode	Ports.cpp	128;"	function	class:RemoteNode
+RemoteNode	Ports.h	161;"	class
+RemoteNode	Ports.h	170;"	prototype	class:RemoteNode
+RemotePort	Ports.h	190;"	class
+RemotePort	Ports.h	198;"	function	class:RemotePort
+SCR	Ports.h	637;"	enumerator	enum:ProximityPlug::__anon9
+SENS	Ports.cpp	759;"	local
+SHT11	PortsSHT11.h	28;"	function	class:SHT11
+SHT11	PortsSHT11.h	8;"	class
+SINFO	Ports.h	638;"	enumerator	enum:ProximityPlug::__anon9
+SKTR	Ports.h	637;"	enumerator	enum:ProximityPlug::__anon9
+SOME_ON	Ports.h	402;"	enumerator	enum:BlinkPlug::__anon3
+SPI_MISO	RF12.cpp	112;"	macro	file:
+SPI_MISO	RF12.cpp	62;"	macro	file:
+SPI_MISO	RF12.cpp	74;"	macro	file:
+SPI_MISO	RF12.cpp	85;"	macro	file:
+SPI_MISO	RF12.cpp	97;"	macro	file:
+SPI_MISO	RF69_avr.h	101;"	macro
+SPI_MISO	RF69_avr.h	23;"	macro
+SPI_MISO	RF69_avr.h	42;"	macro
+SPI_MISO	RF69_avr.h	60;"	macro
+SPI_MISO	RF69_avr.h	81;"	macro
+SPI_MOSI	RF12.cpp	111;"	macro	file:
+SPI_MOSI	RF12.cpp	61;"	macro	file:
+SPI_MOSI	RF12.cpp	73;"	macro	file:
+SPI_MOSI	RF12.cpp	86;"	macro	file:
+SPI_MOSI	RF12.cpp	98;"	macro	file:
+SPI_MOSI	RF69_avr.h	100;"	macro
+SPI_MOSI	RF69_avr.h	22;"	macro
+SPI_MOSI	RF69_avr.h	41;"	macro
+SPI_MOSI	RF69_avr.h	61;"	macro
+SPI_MOSI	RF69_avr.h	82;"	macro
+SPI_SCK	RF12.cpp	113;"	macro	file:
+SPI_SCK	RF12.cpp	63;"	macro	file:
+SPI_SCK	RF12.cpp	75;"	macro	file:
+SPI_SCK	RF12.cpp	87;"	macro	file:
+SPI_SCK	RF12.cpp	99;"	macro	file:
+SPI_SCK	RF69_avr.h	102;"	macro
+SPI_SCK	RF69_avr.h	24;"	macro
+SPI_SCK	RF69_avr.h	43;"	macro
+SPI_SCK	RF69_avr.h	62;"	macro
+SPI_SCK	RF69_avr.h	83;"	macro
+SPI_SS	RF12.cpp	110;"	macro	file:
+SPI_SS	RF12.cpp	60;"	macro	file:
+SPI_SS	RF12.cpp	72;"	macro	file:
+SPI_SS	RF12.cpp	84;"	macro	file:
+SPI_SS	RF12.cpp	96;"	macro	file:
+SPI_SS	RF69_avr.h	21;"	macro
+SPI_SS	RF69_avr.h	40;"	macro
+SPI_SS	RF69_avr.h	59;"	macro
+SPI_SS	RF69_avr.h	80;"	macro
+SPI_SS	RF69_avr.h	99;"	macro
+SS_BIT	RF12.cpp	108;"	macro	file:
+SS_BIT	RF12.cpp	58;"	macro	file:
+SS_BIT	RF12.cpp	70;"	macro	file:
+SS_BIT	RF12.cpp	82;"	macro	file:
+SS_BIT	RF12.cpp	94;"	macro	file:
+SS_BIT	RF69_avr.h	19;"	macro
+SS_BIT	RF69_avr.h	38;"	macro
+SS_BIT	RF69_avr.h	57;"	macro
+SS_BIT	RF69_avr.h	78;"	macro
+SS_BIT	RF69_avr.h	97;"	macro
+SS_DDR	RF12.cpp	106;"	macro	file:
+SS_DDR	RF12.cpp	56;"	macro	file:
+SS_DDR	RF12.cpp	68;"	macro	file:
+SS_DDR	RF12.cpp	80;"	macro	file:
+SS_DDR	RF12.cpp	92;"	macro	file:
+SS_DDR	RF69_avr.h	17;"	macro
+SS_DDR	RF69_avr.h	36;"	macro
+SS_DDR	RF69_avr.h	55;"	macro
+SS_DDR	RF69_avr.h	76;"	macro
+SS_DDR	RF69_avr.h	95;"	macro
+SS_PORT	RF12.cpp	107;"	macro	file:
+SS_PORT	RF12.cpp	57;"	macro	file:
+SS_PORT	RF12.cpp	69;"	macro	file:
+SS_PORT	RF12.cpp	81;"	macro	file:
+SS_PORT	RF12.cpp	93;"	macro	file:
+SS_PORT	RF69_avr.h	18;"	macro
+SS_PORT	RF69_avr.h	37;"	macro
+SS_PORT	RF69_avr.h	56;"	macro
+SS_PORT	RF69_avr.h	77;"	macro
+SS_PORT	RF69_avr.h	96;"	macro
+STATUS_REG_R	PortsSHT11.cpp	20;"	enumerator	enum:__anon15	file:
+STATUS_REG_W	PortsSHT11.cpp	19;"	enumerator	enum:__anon15	file:
+STR1	Ports.h	636;"	enumerator	enum:ProximityPlug::__anon9
+STR2	Ports.h	636;"	enumerator	enum:ProximityPlug::__anon9
+STR3	Ports.h	636;"	enumerator	enum:ProximityPlug::__anon9
+STR4	Ports.h	636;"	enumerator	enum:ProximityPlug::__anon9
+STR5	Ports.h	636;"	enumerator	enum:ProximityPlug::__anon9
+STR6	Ports.h	636;"	enumerator	enum:ProximityPlug::__anon9
+STR7	Ports.h	636;"	enumerator	enum:ProximityPlug::__anon9
+STR8	Ports.h	636;"	enumerator	enum:ProximityPlug::__anon9
+SUBADR1	Ports.h	476;"	enumerator	enum:DimmerPlug::__anon4
+SUBADR2	Ports.h	476;"	enumerator	enum:DimmerPlug::__anon4
+SUBADR3	Ports.h	476;"	enumerator	enum:DimmerPlug::__anon4
+Scheduler	Ports.cpp	1185;"	function	class:Scheduler
+Scheduler	Ports.cpp	1191;"	function	class:Scheduler
+Scheduler	Ports.h	369;"	class
+Scheduler	Ports.h	376;"	prototype	class:Scheduler
+Scheduler	Ports.h	377;"	prototype	class:Scheduler
+Serial	RF12.cpp	750;"	prototype	file:
+Sleepy	Ports.h	333;"	class
+T1	PortsSHT11.cpp	196;"	local
+T2	PortsSHT11.cpp	197;"	local
+TASPR	Ports.h	637;"	enumerator	enum:ProximityPlug::__anon9
+TEMP	PortsBMP085.h	18;"	enumerator	enum:BMP085::__anon13
+TEMP	PortsSHT11.h	23;"	enumerator	enum:SHT11::__anon16
+THR	Ports.cpp	428;"	macro	file:
+THRESHHIGHHIGH	Ports.h	494;"	enumerator	enum:LuxPlug::__anon6
+THRESHHIGHHIGH	Ports.h	682;"	enumerator	enum:ColorPlug::__anon11
+THRESHHIGHLOW	Ports.h	494;"	enumerator	enum:LuxPlug::__anon6
+THRESHHIGHLOW	Ports.h	682;"	enumerator	enum:ColorPlug::__anon11
+THRESHLOWHIGH	Ports.h	494;"	enumerator	enum:LuxPlug::__anon6
+THRESHLOWHIGH	Ports.h	682;"	enumerator	enum:ColorPlug::__anon11
+THRESHLOWLOW	Ports.h	494;"	enumerator	enum:LuxPlug::__anon6
+THRESHLOWLOW	Ports.h	682;"	enumerator	enum:ColorPlug::__anon11
+TIMING	Ports.h	493;"	enumerator	enum:LuxPlug::__anon6
+TIMING	Ports.h	681;"	enumerator	enum:ColorPlug::__anon11
+TPCONFIG	Ports.h	635;"	enumerator	enum:ProximityPlug::__anon9
+TPSTATUS	Ports.h	635;"	enumerator	enum:ProximityPlug::__anon9
+TXCRC1	RF12.cpp	138;"	enumerator	enum:__anon17	file:
+TXCRC1	RF69.cpp	44;"	enumerator	enum:__anon19	file:
+TXCRC2	RF12.cpp	138;"	enumerator	enum:__anon17	file:
+TXCRC2	RF69.cpp	44;"	enumerator	enum:__anon19	file:
+TXDONE	RF12.cpp	138;"	enumerator	enum:__anon17	file:
+TXDONE	RF69.cpp	44;"	enumerator	enum:__anon19	file:
+TXIDLE	RF12.cpp	138;"	enumerator	enum:__anon17	file:
+TXIDLE	RF69.cpp	44;"	enumerator	enum:__anon19	file:
+TXPRE1	RF12.cpp	140;"	enumerator	enum:__anon17	file:
+TXPRE2	RF12.cpp	140;"	enumerator	enum:__anon17	file:
+TXPRE3	RF12.cpp	140;"	enumerator	enum:__anon17	file:
+TXRECV	RF12.cpp	139;"	enumerator	enum:__anon17	file:
+TXRECV	RF69.cpp	44;"	enumerator	enum:__anon19	file:
+TXSYN1	RF12.cpp	140;"	enumerator	enum:__anon17	file:
+TXSYN2	RF12.cpp	140;"	enumerator	enum:__anon17	file:
+TXTAIL	RF12.cpp	138;"	enumerator	enum:__anon17	file:
+TXTAIL	RF69.cpp	44;"	enumerator	enum:__anon19	file:
+UNKNOWN	Ports.h	587;"	enumerator	enum:InfraredPlug::__anon8
+UartPlug	Ports.h	448;"	class
+UartPlug	Ports.h	457;"	function	class:UartPlug
+WDTCSR	Ports.cpp	1106;"	macro	file:
+WRITE_RESULT	Ports.h	22;"	macro
+WRITE_RESULT	Ports.h	24;"	macro
+X	Ports.cpp	1083;"	local
+X	Ports.cpp	762;"	local
+Y	Ports.cpp	1084;"	local
+Z	Ports.cpp	1085;"	local
+__PROG_TYPES_COMPAT__	RF69_avr.h	5;"	macro
+_currline	PortsLCD.h	92;"	member	class:LiquidCrystalBase
+_data_pins	PortsLCD.h	125;"	member	class:LiquidCrystal
+_displaycontrol	PortsLCD.h	89;"	member	class:LiquidCrystalBase
+_displayfunction	PortsLCD.h	88;"	member	class:LiquidCrystalBase
+_displaymode	PortsLCD.h	90;"	member	class:LiquidCrystalBase
+_enable_pin	PortsLCD.h	124;"	member	class:LiquidCrystal
+_initialized	PortsLCD.h	91;"	member	class:LiquidCrystalBase
+_numlines	PortsLCD.h	92;"	member	class:LiquidCrystalBase
+_rs_pin	PortsLCD.h	122;"	member	class:LiquidCrystal
+_rw_pin	PortsLCD.h	123;"	member	class:LiquidCrystal
+ac1	PortsBMP085.h	9;"	member	class:BMP085
+ac2	PortsBMP085.h	9;"	member	class:BMP085
+ac3	PortsBMP085.h	9;"	member	class:BMP085
+ac4	PortsBMP085.h	10;"	member	class:BMP085
+ac5	PortsBMP085.h	10;"	member	class:BMP085
+ac6	PortsBMP085.h	10;"	member	class:BMP085
+ack	Ports.cpp	212;"	local
+ackData	RF12sio.h	13;"	member	class:RF12
+ackHead	RF12sio.h	13;"	member	class:RF12
+ackTimer	RF12sio.h	10;"	member	class:RF12
+adc	Ports.h	601;"	member	class:HeadingBoard
+adcValue	Ports.cpp	706;"	function	class:HeadingBoard
+adcValue	Ports.h	609;"	prototype	class:HeadingBoard
+adcsraSave	Ports.cpp	1124;"	local
+addToBuf	RF12sio.cpp	21;"	function	class:RF12
+addToBuf	RF12sio.h	16;"	prototype	class:RF12
+addr	Ports.h	268;"	member	class:DeviceI2C
+anaIn	Ports.h	167;"	member	struct:RemoteNode::__anon1
+anaOut	Ports.h	166;"	member	struct:RemoteNode::__anon1
+anaPin	Ports.h	50;"	function	class:Port
+anaPin	Ports.h	63;"	function	class:Port
+anaPin	Ports.h	76;"	function	class:Port
+anaRead	Ports.cpp	168;"	function	class:RemotePort
+anaRead	Ports.h	115;"	function	class:Port
+anaRead	Ports.h	206;"	prototype	class:RemotePort
+anaWrite	Ports.cpp	155;"	function	class:RemotePort
+anaWrite	Ports.h	100;"	function	class:Port
+anaWrite	Ports.h	203;"	prototype	class:RemotePort
+anaWrite3	Ports.h	147;"	function	class:Port
+ap	Ports.cpp	535;"	local
+args	RF12sio.cpp	95;"	local
+armed	Ports.h	315;"	member	class:MilliTimer
+autoscroll	PortsLCD.cpp	157;"	function	class:LiquidCrystalBase
+autoscroll	PortsLCD.h	76;"	prototype	class:LiquidCrystalBase
+aux	Ports.h	602;"	member	class:HeadingBoard
+available	Ports.cpp	470;"	function	class:UartPlug
+available	Ports.h	461;"	prototype	class:UartPlug
+b	Ports.cpp	599;"	local
+b	Ports.cpp	794;"	local
+b	Ports.h	490;"	member	union:LuxPlug::__anon5
+b	Ports.h	540;"	member	union:GravityPlug::__anon7
+b	Ports.h	677;"	member	union:ColorPlug::__anon10
+b1	PortsBMP085.h	9;"	member	class:BMP085
+b2	PortsBMP085.h	9;"	member	class:BMP085
+b3	PortsBMP085.cpp	57;"	local
+b4	PortsBMP085.cpp	58;"	local
+b5	PortsBMP085.cpp	57;"	local
+b6	PortsBMP085.cpp	57;"	local
+b7	PortsBMP085.cpp	58;"	local
+backlight	PortsLCD.cpp	341;"	function	class:LiquidCrystalI2C
+backlight	PortsLCD.h	139;"	prototype	class:LiquidCrystalI2C
+backupMode	Ports.cpp	1102;"	variable	file:
+band	RF12.cpp	758;"	local
+begin	Ports.cpp	457;"	function	class:UartPlug
+begin	Ports.cpp	511;"	function	class:DimmerPlug
+begin	Ports.cpp	723;"	function	class:HeadingBoard
+begin	Ports.cpp	908;"	function	class:ProximityPlug
+begin	Ports.cpp	934;"	function	class:AnalogPlug
+begin	Ports.h	460;"	prototype	class:UartPlug
+begin	Ports.h	482;"	prototype	class:DimmerPlug
+begin	Ports.h	502;"	function	class:LuxPlug
+begin	Ports.h	546;"	function	class:GravityPlug
+begin	Ports.h	616;"	prototype	class:HeadingBoard
+begin	Ports.h	644;"	prototype	class:ProximityPlug
+begin	Ports.h	658;"	prototype	class:AnalogPlug
+begin	Ports.h	690;"	function	class:ColorPlug
+begin	PortsLCD.cpp	11;"	function	class:LiquidCrystalBase
+begin	PortsLCD.h	61;"	prototype	class:LiquidCrystalBase
+bit	Ports.cpp	832;"	local
+bitOrder	Ports.h	154;"	local
+bitRead	Ports.cpp	902;"	prototype	file:
+blink	PortsLCD.cpp	131;"	function	class:LiquidCrystalBase
+blink	PortsLCD.h	69;"	prototype	class:LiquidCrystalBase
+buf	Ports.h	571;"	member	class:InfraredPlug
+buffer	Ports.h	435;"	member	class:MemoryStream
+buffer	Ports.h	593;"	function	class:InfraredPlug
+buffer	Ports.h	738;"	member	class:InputParser
+buttonCheck	Ports.cpp	331;"	function	class:BlinkPlug
+buttonCheck	Ports.h	416;"	prototype	class:BlinkPlug
+bwcode	Ports.cpp	617;"	local
+bytes	Ports.cpp	1186;"	local
+bytes	Ports.cpp	1192;"	local
+bytes	Ports.cpp	1357;"	local
+bytes	Ports.h	712;"	member	struct:InputParser::__anon12
+calcLux	Ports.cpp	581;"	function	class:LuxPlug
+calcLux	Ports.h	521;"	prototype	class:LuxPlug
+calculate	PortsBMP085.cpp	55;"	function	class:BMP085
+calculate	PortsBMP085.h	45;"	prototype	class:BMP085
+calculate	PortsSHT11.cpp	192;"	function	class:SHT11
+calculate	PortsSHT11.h	39;"	prototype	class:SHT11
+canSend	RF69.cpp	133;"	function	class:RF69
+canSend	RF69.h	11;"	prototype	namespace:RF69
+cancel	Ports.cpp	1257;"	function	class:Scheduler
+cancel	Ports.h	390;"	prototype	class:Scheduler
+ch	Ports.cpp	1283;"	local
+chScale	Ports.cpp	583;"	local
+channel0	Ports.cpp	591;"	local
+channel1	Ports.cpp	592;"	local
+checkFlags	Ports.h	399;"	member	class:BlinkPlug
+chromaCCT	Ports.cpp	1081;"	function	class:ColorPlug
+chromaCCT	Ports.h	702;"	prototype	class:ColorPlug
+chromacct	Ports.h	678;"	member	class:ColorPlug
+clear	PortsLCD.cpp	84;"	function	class:LiquidCrystalBase
+clear	PortsLCD.h	63;"	prototype	class:LiquidCrystalBase
+clock	PortsSHT11.cpp	61;"	function	class:SHT11
+clock	PortsSHT11.h	9;"	prototype	class:SHT11
+cmd	RF69.cpp	117;"	local
+cmds	Ports.h	741;"	member	class:InputParser
+code	Ports.cpp	1353;"	local
+code	Ports.cpp	1373;"	local
+code	Ports.h	711;"	member	struct:InputParser::__anon12
+command	PortsLCD.cpp	180;"	function	class:LiquidCrystalBase
+command	PortsLCD.h	82;"	prototype	class:LiquidCrystalBase
+compass	Ports.h	601;"	member	class:HeadingBoard
+config	Ports.h	652;"	member	class:AnalogPlug
+config	PortsLCD.cpp	267;"	function	class:LiquidCrystal
+config	PortsLCD.cpp	357;"	function	class:LiquidCrystalI2C
+config	PortsLCD.h	115;"	prototype	class:LiquidCrystal
+config	PortsLCD.h	142;"	prototype	class:LiquidCrystalI2C
+config	PortsLCD.h	84;"	prototype	class:LiquidCrystalBase
+configure	Ports.cpp	825;"	function	class:InfraredPlug
+configure	Ports.h	579;"	prototype	class:InfraredPlug
+configure_compat	RF69.cpp	155;"	function	class:RF69
+configure_compat	RF69.h	16;"	prototype	namespace:RF69
+configure_compat	RF69_compat.cpp	43;"	prototype	class:RF69	file:
+connReset	PortsSHT11.cpp	123;"	function	class:SHT11
+connReset	PortsSHT11.h	30;"	prototype	class:SHT11
+control	RF69.cpp	84;"	function	class:RF69
+control	RF69.h	14;"	prototype	namespace:RF69
+corr	Ports.cpp	745;"	local
+count	Ports.h	721;"	function	class:InputParser
+crc	RF12.cpp	721;"	local
+crc	RF69.cpp	50;"	member	namespace:RF69	file:
+crc	RF69_compat.cpp	49;"	local
+crc8	PortsSHT11.cpp	52;"	member	class:SHT11	file:
+crc8	PortsSHT11.h	19;"	member	class:SHT11
+crcCalc	PortsSHT11.cpp	43;"	function	class:SHT11
+crcCalc	PortsSHT11.h	17;"	prototype	class:SHT11
+crcFun	PortsSHT11.cpp	53;"	variable
+crcFun	PortsSHT11.cpp	56;"	member	class:SHT11	file:
+crcFun	PortsSHT11.h	18;"	member	class:SHT11
+crc_endVal	RF12.cpp	22;"	macro	file:
+crc_endVal	RF12.cpp	30;"	macro	file:
+crc_initVal	RF12.cpp	21;"	macro	file:
+crc_initVal	RF12.cpp	29;"	macro	file:
+crc_update	RF12.cpp	23;"	macro	file:
+crc_update	RF12.cpp	31;"	macro	file:
+createChar	PortsLCD.cpp	170;"	function	class:LiquidCrystalBase
+createChar	PortsLCD.h	79;"	prototype	class:LiquidCrystalBase
+cryptFun	RF12.cpp	960;"	function	file:
+cryptKey	RF12.cpp	166;"	variable	file:
+crypter	RF12.cpp	167;"	variable
+cs_pin	RF12.cpp	143;"	variable	file:
+curr	Ports.cpp	842;"	local
+curr	Ports.h	433;"	member	class:MemoryStream
+cursor	PortsLCD.cpp	121;"	function	class:LiquidCrystalBase
+cursor	PortsLCD.h	71;"	prototype	class:LiquidCrystalBase
+dUT	Ports.cpp	748;"	local
+data	Ports.cpp	218;"	local
+data	Ports.cpp	661;"	local
+data	Ports.cpp	997;"	local
+data	Ports.h	179;"	member	class:RemoteNode
+data	Ports.h	490;"	member	class:LuxPlug
+data	Ports.h	540;"	member	class:GravityPlug
+data	Ports.h	677;"	member	class:ColorPlug
+debounce	Ports.h	398;"	member	class:BlinkPlug
+decoder	Ports.cpp	873;"	function	class:InfraredPlug
+decoder	Ports.h	590;"	prototype	class:InfraredPlug
+dev	Ports.h	432;"	member	class:MemoryStream
+dev	Ports.h	449;"	member	class:UartPlug
+device	PortsLCD.h	134;"	member	class:LiquidCrystalI2C
+dewpoint	PortsSHT11.cpp	212;"	function	class:SHT11
+dewpoint	PortsSHT11.h	41;"	prototype	class:SHT11
+diff	Ports.cpp	1248;"	local
+diff	Ports.cpp	842;"	local
+digiIO	Ports.h	166;"	member	struct:RemoteNode::__anon1
+digiPin	Ports.h	101;"	prototype
+digiPin	Ports.h	154;"	prototype
+digiPin	Ports.h	41;"	function	class:Port
+digiPin	Ports.h	54;"	function	class:Port
+digiPin	Ports.h	67;"	function	class:Port
+digiPin	Ports.h	90;"	prototype
+digiPin2	Ports.h	112;"	prototype
+digiPin2	Ports.h	154;"	prototype
+digiPin2	Ports.h	44;"	function	class:Port
+digiPin2	Ports.h	57;"	function	class:Port
+digiPin2	Ports.h	70;"	function	class:Port
+digiPin3	Ports.h	137;"	prototype
+digiPin3	Ports.h	148;"	prototype
+digiPin3	Ports.h	47;"	function	class:Port
+digiPin3	Ports.h	60;"	function	class:Port
+digiPin3	Ports.h	73;"	function	class:Port
+digiRead	Ports.cpp	146;"	function	class:RemotePort
+digiRead	Ports.h	201;"	prototype	class:RemotePort
+digiRead	Ports.h	93;"	function	class:Port
+digiRead2	Ports.cpp	173;"	function	class:RemotePort
+digiRead2	Ports.h	119;"	function	class:Port
+digiRead2	Ports.h	207;"	prototype	class:RemotePort
+digiRead3	Ports.h	140;"	function	class:Port
+digiWrite	Ports.cpp	150;"	function	class:RemotePort
+digiWrite	Ports.h	202;"	prototype	class:RemotePort
+digiWrite	Ports.h	97;"	function	class:Port
+digiWrite2	Ports.cpp	177;"	function	class:RemotePort
+digiWrite2	Ports.h	123;"	function	class:Port
+digiWrite2	Ports.h	208;"	prototype	class:RemotePort
+digiWrite3	Ports.h	144;"	function	class:Port
+display	PortsLCD.cpp	111;"	function	class:LiquidCrystalBase
+display	PortsLCD.h	67;"	prototype	class:LiquidCrystalBase
+divisor	Ports.cpp	458;"	local
+done	Ports.cpp	859;"	function	class:InfraredPlug
+done	Ports.h	585;"	prototype	class:InfraredPlug
+dummyCRC	PortsSHT11.cpp	47;"	function	file:
+e	RF12.cpp	723;"	local
+e	RF12.cpp	962;"	local
+e	RF69_compat.cpp	51;"	local
+eeprom	Ports.h	601;"	member	class:HeadingBoard
+eepromByte	Ports.cpp	681;"	function	class:HeadingBoard
+eepromByte	Ports.h	607;"	prototype	class:HeadingBoard
+enableCRC	PortsSHT11.cpp	55;"	function	class:SHT11
+enableCRC	PortsSHT11.h	21;"	prototype	class:SHT11
+error	PortsSHT11.cpp	81;"	local
+ezInterval	RF12.cpp	154;"	variable	file:
+ezInterval	RF69_compat.cpp	16;"	variable	file:
+ezNextSend	RF12.cpp	158;"	variable	file:
+ezNextSend	RF69_compat.cpp	20;"	variable	file:
+ezPending	RF12.cpp	157;"	variable	file:
+ezPending	RF69_compat.cpp	19;"	variable	file:
+ezSendBuf	RF12.cpp	155;"	variable	file:
+ezSendBuf	RF69_compat.cpp	17;"	variable	file:
+ezSendLen	RF12.cpp	156;"	variable	file:
+ezSendLen	RF69_compat.cpp	18;"	variable	file:
+fill	Ports.h	572;"	member	class:InfraredPlug
+fill	Ports.h	738;"	member	class:InputParser
+flags	Ports.h	166;"	member	struct:RemoteNode::__anon1
+flags	RF12.cpp	745;"	local
+flipped	PortsSHT11.cpp	168;"	local
+flush	Ports.cpp	1143;"	prototype	file:
+flush	Ports.cpp	413;"	function	class:MemoryStream
+flush	Ports.cpp	494;"	function	class:UartPlug
+flush	Ports.h	443;"	prototype	class:MemoryStream
+flush	Ports.h	463;"	prototype	class:UartPlug
+flushAndPowerDown	Ports.cpp	1142;"	function	class:Sleepy
+flushAndPowerDown	Ports.h	351;"	prototype	class:Sleepy
+flushFifo	RF69.cpp	97;"	function	file:
+freq	RF12.cpp	746;"	local
+freq	RF69_compat.cpp	29;"	local
+frequency	RF12.cpp	147;"	variable	file:
+frequency	RF12.cpp	730;"	local
+frequency	RF69_compat.cpp	58;"	local
+frf	RF69.cpp	47;"	member	namespace:RF69	file:
+from	RF12sio.h	60;"	function	class:RF12
+fun	Ports.h	713;"	member	struct:InputParser::__anon12
+gap	Ports.h	571;"	member	class:InfraredPlug
+get	Ports.cpp	1382;"	function	class:InputParser
+get	Ports.cpp	397;"	function	class:MemoryStream
+get	Ports.h	441;"	prototype	class:MemoryStream
+get	Ports.h	735;"	prototype	class:InputParser
+get	RF12sio.cpp	68;"	function	class:RF12
+get	RF12sio.h	22;"	prototype	class:RF12
+getAxes	Ports.cpp	628;"	function	class:GravityPlug
+getAxes	Ports.h	554;"	prototype	class:GravityPlug
+getCalibData	PortsBMP085.cpp	36;"	function	class:BMP085
+getCalibData	PortsBMP085.h	44;"	prototype	class:BMP085
+getConstants	Ports.cpp	690;"	function	class:HeadingBoard
+getConstants	Ports.h	608;"	prototype	class:HeadingBoard
+getData	Ports.cpp	1064;"	function	class:ColorPlug
+getData	Ports.cpp	560;"	function	class:LuxPlug
+getData	Ports.h	519;"	prototype	class:LuxPlug
+getData	Ports.h	700;"	prototype	class:ColorPlug
+getReg	Ports.cpp	518;"	function	class:DimmerPlug
+getReg	Ports.cpp	925;"	function	class:ProximityPlug
+getReg	Ports.h	483;"	prototype	class:DimmerPlug
+getReg	Ports.h	647;"	prototype	class:ProximityPlug
+getResult	PortsBMP085.cpp	23;"	function	class:BMP085
+getResult	PortsBMP085.h	37;"	prototype	class:BMP085
+group	RF12.cpp	146;"	variable	file:
+group	RF69.cpp	48;"	member	namespace:RF69	file:
+group	RF69_compat.cpp	36;"	member	class:RF69	file:
+h	Ports.cpp	970;"	local
+halfms	Ports.cpp	1162;"	local
+hasvalue	Ports.h	739;"	member	class:InputParser
+heading	Ports.cpp	768;"	function	class:HeadingBoard
+heading	Ports.cpp	798;"	function	class:CompassBoard
+heading	Ports.h	618;"	prototype	class:HeadingBoard
+heading	Ports.h	628;"	prototype	class:CompassBoard
+hexmode	Ports.h	739;"	member	class:InputParser
+hold	Ports.h	230;"	function	class:PortI2C
+home	PortsLCD.cpp	90;"	function	class:LiquidCrystalBase
+home	PortsLCD.h	64;"	prototype	class:LiquidCrystalBase
+id	RF12.cpp	782;"	local
+id	RF69_compat.cpp	70;"	local
+idle	Ports.h	325;"	function	class:MilliTimer
+idle	Ports.h	393;"	function	class:Scheduler
+in	Ports.h	451;"	member	class:UartPlug
+in	RF12.cpp	322;"	local
+in	RF69.cpp	238;"	local
+in	RF69_avr.h	157;"	local
+init	PortsLCD.cpp	234;"	function	class:LiquidCrystal
+init	PortsLCD.h	112;"	prototype	class:LiquidCrystal
+initBuf	RF12sio.cpp	14;"	function	class:RF12
+initBuf	RF12sio.h	15;"	prototype	class:RF12
+initRadio	RF69.cpp	108;"	function	file:
+instring	Ports.h	739;"	member	class:InputParser
+interrupt_compat	RF69.cpp	228;"	function	class:RF69
+interrupt_compat	RF69.h	19;"	prototype	namespace:RF69
+io	Ports.cpp	1360;"	prototype	file:
+io	Ports.h	742;"	member	class:InputParser
+irq0	RF69.cpp	85;"	local
+isPresent	Ports.cpp	234;"	function	class:DeviceI2C
+isPresent	Ports.h	274;"	prototype	class:DeviceI2C
+k	PortsSHT11.cpp	213;"	local
+lastPoll	Ports.h	178;"	member	class:RemoteNode
+lastState	Ports.h	399;"	member	class:BlinkPlug
+ledOff	Ports.cpp	289;"	function	class:BlinkPlug
+ledOff	Ports.h	410;"	prototype	class:BlinkPlug
+ledOn	Ports.cpp	273;"	function	class:BlinkPlug
+ledOn	Ports.h	409;"	prototype	class:BlinkPlug
+ledState	Ports.h	412;"	function	class:BlinkPlug
+leds	Ports.h	399;"	member	class:BlinkPlug
+leftToRight	PortsLCD.cpp	145;"	function	class:LiquidCrystalBase
+leftToRight	PortsLCD.h	74;"	prototype	class:LiquidCrystalBase
+len	RF12sio.cpp	118;"	local
+limit	Ports.h	738;"	member	class:InputParser
+load	Ports.cpp	356;"	function	class:MemoryPlug
+load	Ports.cpp	399;"	prototype	file:
+load	Ports.h	426;"	prototype	class:MemoryPlug
+loseSomeTime	Ports.cpp	1147;"	function	class:Sleepy
+loseSomeTime	Ports.h	362;"	prototype	class:Sleepy
+lowest	Ports.cpp	1200;"	local
+m	Ports.cpp	599;"	local
+mask	Ports.cpp	116;"	local
+mask	Ports.cpp	662;"	local
+mask	Ports.cpp	88;"	local
+maxTasks	Ports.h	372;"	member	class:Scheduler
+mb	PortsBMP085.h	9;"	member	class:BMP085
+mc	PortsBMP085.h	9;"	member	class:BMP085
+md	PortsBMP085.h	9;"	member	class:BMP085
+meas	PortsBMP085.h	19;"	member	class:BMP085
+meas	PortsSHT11.h	24;"	member	class:SHT11
+measure	PortsBMP085.h	41;"	function	class:BMP085
+measure	PortsSHT11.cpp	161;"	function	class:SHT11
+measure	PortsSHT11.h	36;"	prototype	class:SHT11
+mode	Ports.cpp	141;"	function	class:RemotePort
+mode	Ports.cpp	725;"	prototype	file:
+mode	Ports.h	200;"	prototype	class:RemotePort
+mode	Ports.h	89;"	function	class:Port
+mode2	Ports.cpp	163;"	function	class:RemotePort
+mode2	Ports.h	111;"	function	class:Port
+mode2	Ports.h	205;"	prototype	class:RemotePort
+mode3	Ports.cpp	736;"	prototype	file:
+mode3	Ports.h	136;"	function	class:Port
+modes	Ports.h	166;"	member	struct:RemoteNode::__anon1
+ms100	Ports.h	373;"	member	class:Scheduler
+msb	Ports.cpp	716;"	local
+msleft	Ports.cpp	1149;"	local
+myAddr	RF12.cpp	859;"	local
+myAddr	RF69_compat.cpp	132;"	local
+n	Ports.cpp	1091;"	local
+n	RF12.cpp	973;"	local
+n	RF12.cpp	988;"	local
+newData	RF12.cpp	870;"	local
+newData	RF69_compat.cpp	141;"	local
+newState	Ports.cpp	317;"	local
+newState	Ports.cpp	334;"	local
+next	Ports.h	314;"	member	class:MilliTimer
+next	Ports.h	738;"	member	class:InputParser
+nextSave	Ports.h	421;"	member	class:MemoryPlug
+nextSize	RF12sio.cpp	50;"	function	class:RF12
+nextSize	RF12sio.h	57;"	prototype	class:RF12
+nf	RF12sio.cpp	149;"	local
+nibble	Ports.cpp	850;"	local
+nid	Ports.h	177;"	member	class:RemoteNode
+noAutoscroll	PortsLCD.cpp	163;"	function	class:LiquidCrystalBase
+noAutoscroll	PortsLCD.h	77;"	prototype	class:LiquidCrystalBase
+noBacklight	PortsLCD.cpp	348;"	function	class:LiquidCrystalI2C
+noBacklight	PortsLCD.h	140;"	prototype	class:LiquidCrystalI2C
+noBlink	PortsLCD.cpp	127;"	function	class:LiquidCrystalBase
+noBlink	PortsLCD.h	68;"	prototype	class:LiquidCrystalBase
+noCursor	PortsLCD.cpp	117;"	function	class:LiquidCrystalBase
+noCursor	PortsLCD.h	70;"	prototype	class:LiquidCrystalBase
+noDisplay	PortsLCD.cpp	107;"	function	class:LiquidCrystalBase
+noDisplay	PortsLCD.h	66;"	prototype	class:LiquidCrystalBase
+node	Ports.h	191;"	member	class:RemotePort
+node	RF69.cpp	49;"	member	namespace:RF69	file:
+node	RF69_compat.cpp	37;"	member	class:RF69	file:
+nodeId	RF12.cpp	744;"	local
+nodeid	RF12.cpp	145;"	variable	file:
+nodeid	RF69_compat.cpp	9;"	variable	file:
+now	RF12.cpp	871;"	local
+now	RF69_compat.cpp	142;"	local
+nowOn	Ports.cpp	320;"	local
+num	RF12sio.cpp	133;"	local
+offset	Ports.cpp	1020;"	local
+offset	Ports.cpp	1389;"	local
+ok	Ports.cpp	1148;"	local
+ok	Ports.cpp	235;"	local
+operator <<	RF12sio.h	25;"	function	class:RF12
+operator <<	RF12sio.h	26;"	function	class:RF12
+operator <<	RF12sio.h	27;"	function	class:RF12
+operator <<	RF12sio.h	28;"	function	class:RF12
+operator <<	RF12sio.h	29;"	function	class:RF12
+operator <<	RF12sio.h	30;"	function	class:RF12
+operator <<	RF12sio.h	31;"	function	class:RF12
+operator <<	RF12sio.h	32;"	function	class:RF12
+operator <<	RF12sio.h	33;"	function	class:RF12
+operator <<	RF12sio.h	34;"	function	class:RF12
+operator <<	RF12sio.h	35;"	function	class:RF12
+operator <<	RF12sio.h	36;"	function	class:RF12
+operator >>	Ports.cpp	1388;"	function	class:InputParser
+operator >>	Ports.h	726;"	function	class:InputParser
+operator >>	Ports.h	727;"	function	class:InputParser
+operator >>	Ports.h	728;"	function	class:InputParser
+operator >>	Ports.h	729;"	function	class:InputParser
+operator >>	Ports.h	730;"	function	class:InputParser
+operator >>	Ports.h	731;"	function	class:InputParser
+operator >>	Ports.h	732;"	prototype	class:InputParser
+operator >>	RF12sio.h	43;"	function	class:RF12
+operator >>	RF12sio.h	44;"	function	class:RF12
+operator >>	RF12sio.h	45;"	function	class:RF12
+operator >>	RF12sio.h	46;"	function	class:RF12
+operator >>	RF12sio.h	47;"	function	class:RF12
+operator >>	RF12sio.h	48;"	function	class:RF12
+operator >>	RF12sio.h	49;"	function	class:RF12
+operator >>	RF12sio.h	50;"	function	class:RF12
+operator >>	RF12sio.h	51;"	function	class:RF12
+operator >>	RF12sio.h	52;"	function	class:RF12
+operator >>	RF12sio.h	53;"	function	class:RF12
+operator >>	RF12sio.h	54;"	function	class:RF12
+oss	PortsBMP085.cpp	29;"	local
+oss	PortsBMP085.h	20;"	member	class:BMP085
+out	Ports.h	451;"	member	class:UartPlug
+out	RF12.cpp	336;"	local
+out	RF69.cpp	213;"	local
+p	Ports.cpp	366;"	local
+p	Ports.cpp	381;"	local
+p	PortsBMP085.cpp	57;"	local
+p	RF12.cpp	962;"	local
+p	RF12sio.cpp	23;"	local
+pad	RF12.cpp	1002;"	local
+pad	RF12.cpp	967;"	local
+parity	RF12.cpp	493;"	local
+pending	Ports.cpp	136;"	local
+pin	Ports.h	667;"	member	class:DHTxx
+pinBit	Ports.h	193;"	function	class:RemotePort
+pinBit2	Ports.h	195;"	function	class:RemotePort
+poll	Ports.cpp	1196;"	function	class:Scheduler
+poll	Ports.cpp	1280;"	function	class:InputParser
+poll	Ports.cpp	135;"	function	class:RemoteNode
+poll	Ports.cpp	240;"	function	class:MilliTimer
+poll	Ports.cpp	831;"	function	class:InfraredPlug
+poll	Ports.h	172;"	prototype	class:RemoteNode
+poll	Ports.h	186;"	prototype	class:RemoteHandler
+poll	Ports.h	321;"	prototype	class:MilliTimer
+poll	Ports.h	381;"	prototype	class:Scheduler
+poll	Ports.h	582;"	prototype	class:InfraredPlug
+poll	Ports.h	724;"	prototype	class:InputParser
+poll	PortsRF12.cpp	10;"	function	class:RemoteHandler
+poll	RF12sio.cpp	106;"	function	class:RF12
+poll	RF12sio.h	56;"	prototype	class:RF12
+pollWaiting	Ports.cpp	1228;"	function	class:Scheduler
+pollWaiting	Ports.h	385;"	prototype	class:Scheduler
+port	Ports.h	267;"	member	class:DeviceI2C
+portNum	Ports.h	37;"	member	class:Port
+pos	Ports.h	435;"	member	class:MemoryStream
+pos	RF12.cpp	339;"	local
+position	Ports.cpp	390;"	function	class:MemoryStream
+position	Ports.h	440;"	prototype	class:MemoryStream
+powerDown	Ports.cpp	1123;"	function	class:Sleepy
+powerDown	Ports.h	347;"	prototype	class:Sleepy
+poweroff	Ports.h	510;"	function	class:LuxPlug
+pressure	Ports.cpp	741;"	function	class:HeadingBoard
+pressure	Ports.h	617;"	prototype	class:HeadingBoard
+prev	Ports.h	573;"	member	class:InfraredPlug
+print	Ports.cpp	1031;"	prototype	file:
+print	Ports.cpp	1037;"	prototype	file:
+print	Ports.cpp	1041;"	prototype	file:
+print	Ports.cpp	1346;"	prototype	file:
+print	Ports.cpp	1377;"	prototype	file:
+print	RF12.cpp	752;"	prototype	file:
+print	RF12.cpp	759;"	prototype	file:
+print	RF12.cpp	768;"	prototype	file:
+print	RF12sio.cpp	163;"	prototype	file:
+println	Ports.cpp	1033;"	prototype	file:
+println	Ports.cpp	1042;"	prototype	file:
+println	Ports.cpp	1347;"	prototype	file:
+println	Ports.cpp	1379;"	prototype	file:
+println	RF12.cpp	777;"	prototype	file:
+println	RF12sio.cpp	128;"	prototype	file:
+println	RF12sio.cpp	169;"	prototype	file:
+pulse	Ports.h	103;"	function	class:Port
+pulse2	Ports.h	127;"	function	class:Port
+pulseEnable	PortsLCD.cpp	297;"	function	class:LiquidCrystal
+pulseEnable	PortsLCD.h	120;"	prototype	class:LiquidCrystal
+pushed	Ports.cpp	315;"	function	class:BlinkPlug
+pushed	Ports.h	415;"	prototype	class:BlinkPlug
+put	Ports.cpp	405;"	function	class:MemoryStream
+put	Ports.h	442;"	prototype	class:MemoryStream
+put	RF12sio.cpp	34;"	function	class:RF12
+put	RF12sio.h	21;"	prototype	class:RF12
+r	RF12.cpp	295;"	local
+ratio	Ports.cpp	597;"	local
+ratio1	Ports.cpp	594;"	local
+raw	Ports.cpp	949;"	local
+read	Ports.cpp	217;"	function	class:PortI2C
+read	Ports.cpp	489;"	function	class:UartPlug
+read	Ports.h	262;"	prototype	class:PortI2C
+read	Ports.h	300;"	function	class:DeviceI2C
+read	Ports.h	462;"	prototype	class:UartPlug
+read	RF12sio.h	23;"	function	class:RF12
+read2	Ports.cpp	793;"	function	class:CompassBoard
+read2	Ports.h	624;"	prototype	class:CompassBoard
+readByte	PortsSHT11.cpp	88;"	function	class:SHT11
+readByte	PortsSHT11.h	14;"	prototype	class:SHT11
+readFromReg	PortsBMP085.h	14;"	function	class:BMP085
+readReg	RF69.cpp	93;"	function	file:
+readStatus	PortsSHT11.cpp	141;"	function	class:SHT11
+readStatus	PortsSHT11.h	33;"	prototype	class:SHT11
+readWord	PortsBMP085.h	12;"	function	class:BMP085
+reading	Ports.cpp	946;"	function	class:AnalogPlug
+reading	Ports.cpp	957;"	function	class:HYT131
+reading	Ports.cpp	985;"	function	class:DHTxx
+reading	Ports.h	534;"	prototype	class:HYT131
+reading	Ports.h	662;"	prototype	class:AnalogPlug
+reading	Ports.h	672;"	prototype	class:DHTxx
+ready	Ports.cpp	241;"	local
+ready	RF12sio.h	39;"	function	class:RF12
+receive	Ports.cpp	451;"	prototype	file:
+receive	Ports.cpp	684;"	prototype	file:
+receive	Ports.cpp	715;"	prototype	file:
+receive	Ports.cpp	784;"	prototype	file:
+receive	Ports.h	284;"	function	class:DeviceI2C
+recvBuf	RF69.cpp	168;"	variable
+recvDone_compat	RF69.cpp	170;"	function	class:RF69
+recvDone_compat	RF69.h	17;"	prototype	namespace:RF69
+regRead	Ports.cpp	448;"	function	class:UartPlug
+regRead	Ports.h	454;"	prototype	class:UartPlug
+regSet	Ports.cpp	439;"	function	class:UartPlug
+regSet	Ports.h	453;"	prototype	class:UartPlug
+release	PortsSHT11.cpp	67;"	function	class:SHT11
+release	PortsSHT11.h	10;"	prototype	class:SHT11
+remain	Ports.cpp	243;"	local
+remain	Ports.cpp	259;"	local
+remaining	Ports.cpp	258;"	function	class:MilliTimer
+remaining	Ports.h	323;"	prototype	class:MilliTimer
+remaining	Ports.h	371;"	member	class:Scheduler
+reply	RF12.cpp	250;"	local
+reset	Ports.cpp	1274;"	function	class:InputParser
+reset	Ports.cpp	421;"	function	class:MemoryStream
+reset	Ports.h	444;"	prototype	class:MemoryStream
+reset	Ports.h	736;"	prototype	class:InputParser
+result	Ports.cpp	309;"	local
+result	Ports.cpp	522;"	local
+result	Ports.cpp	685;"	local
+result	Ports.cpp	717;"	local
+result	Ports.cpp	860;"	local
+result	Ports.cpp	929;"	local
+rf12DataRates	RF12.h	159;"	enum
+rf12_buf	RF12.cpp	161;"	variable
+rf12_buf	RF69_compat.h	13;"	macro
+rf12_byte	RF12.cpp	212;"	function	file:
+rf12_canSend	RF12.cpp	478;"	function
+rf12_canSend	RF12.h	109;"	prototype
+rf12_canSend	RF69_compat.h	22;"	macro
+rf12_config	RF12.cpp	781;"	function
+rf12_config	RF12.h	102;"	prototype
+rf12_config	RF69_compat.h	19;"	macro
+rf12_configDump	RF12.cpp	743;"	function
+rf12_configDump	RF12.h	99;"	prototype
+rf12_configSilent	RF12.cpp	720;"	function
+rf12_configSilent	RF12.h	97;"	prototype
+rf12_configSilent	RF69_compat.h	20;"	macro
+rf12_control	RF12.cpp	282;"	function
+rf12_control	RF12.h	150;"	prototype
+rf12_control	RF69_compat.h	33;"	macro
+rf12_crc	RF12.cpp	160;"	variable
+rf12_crc	RF69_compat.h	12;"	macro
+rf12_data	RF12.h	27;"	macro
+rf12_data	RF12.h	40;"	macro
+rf12_dest	RF12.cpp	18;"	macro	file:
+rf12_dst	RF12.h	25;"	macro
+rf12_easyInit	RF12.cpp	844;"	function
+rf12_easyInit	RF12.h	134;"	prototype
+rf12_easyInit	RF69_compat.h	29;"	macro
+rf12_easyPoll	RF12.cpp	857;"	function
+rf12_easyPoll	RF12.h	137;"	prototype
+rf12_easyPoll	RF69_compat.h	30;"	macro
+rf12_easySend	RF12.cpp	912;"	function
+rf12_easySend	RF12.h	140;"	prototype
+rf12_easySend	RF69_compat.h	31;"	macro
+rf12_encrypt	RF12.cpp	1035;"	function
+rf12_encrypt	RF12.h	143;"	prototype
+rf12_encrypt	RF69_compat.h	32;"	macro
+rf12_fixed_pkt_len	RF12.cpp	163;"	variable	file:
+rf12_grp	RF12.h	21;"	macro
+rf12_hdr	RF12.h	26;"	macro
+rf12_hdr	RF12.h	36;"	macro
+rf12_initialize	RF12.cpp	622;"	function
+rf12_initialize	RF12.h	92;"	prototype
+rf12_initialize	RF69_compat.h	18;"	macro
+rf12_interrupt	RF12.cpp	316;"	function	file:
+rf12_len	RF12.h	24;"	macro
+rf12_len	RF12.h	38;"	macro
+rf12_lowbat	RF12.cpp	818;"	function
+rf12_lowbat	RF12.h	131;"	prototype
+rf12_lowbat	RF69_compat.h	28;"	macro
+rf12_onOff	RF12.cpp	707;"	function
+rf12_onOff	RF12.h	124;"	prototype
+rf12_onOff	RF69_compat.h	26;"	macro
+rf12_orig	RF12.cpp	19;"	macro	file:
+rf12_rawlen	RF12.cpp	17;"	macro	file:
+rf12_rawlen	RF12.cpp	25;"	macro	file:
+rf12_recvDone	RF12.cpp	437;"	function
+rf12_recvDone	RF12.h	105;"	prototype
+rf12_recvDone	RF69_compat.h	21;"	macro
+rf12_recvStart	RF12.cpp	391;"	function	file:
+rf12_sendNow	RF12.cpp	559;"	function
+rf12_sendNow	RF12.h	116;"	prototype
+rf12_sendNow	RF69_compat.h	24;"	macro
+rf12_sendStart	RF12.cpp	490;"	function
+rf12_sendStart	RF12.cpp	542;"	function
+rf12_sendStart	RF12.h	112;"	prototype
+rf12_sendStart	RF12.h	114;"	prototype
+rf12_sendStart	RF69_compat.h	23;"	macro
+rf12_sendWait	RF12.cpp	574;"	function
+rf12_sendWait	RF12.h	120;"	prototype
+rf12_sendWait	RF69_compat.h	25;"	macro
+rf12_seq	RF12.cpp	162;"	variable
+rf12_seq	RF69_compat.h	14;"	macro
+rf12_setRawRecvMode	RF12.cpp	950;"	function
+rf12_setRawRecvMode	RF12.h	146;"	prototype
+rf12_set_cs	RF12.cpp	180;"	function
+rf12_set_cs	RF12.h	86;"	prototype
+rf12_set_cs	RF69_compat.h	16;"	macro
+rf12_sleep	RF12.cpp	801;"	function
+rf12_sleep	RF12.h	128;"	prototype
+rf12_sleep	RF69_compat.h	27;"	macro
+rf12_spiInit	RF12.cpp	190;"	function
+rf12_spiInit	RF12.h	89;"	prototype
+rf12_spiInit	RF69_compat.h	17;"	macro
+rf12_xfer	RF12.cpp	260;"	function	file:
+rf12_xfer	RF12.cpp	268;"	macro	file:
+rf12_xferSlow	RF12.cpp	244;"	function	file:
+rf69_buf	RF69_compat.cpp	7;"	variable
+rf69_canSend	RF69_compat.cpp	81;"	function
+rf69_config	RF69_compat.cpp	69;"	function
+rf69_configSilent	RF69_compat.cpp	48;"	function
+rf69_control	RF69_compat.cpp	174;"	function
+rf69_crc	RF69_compat.cpp	6;"	variable
+rf69_easyInit	RF69_compat.cpp	125;"	function
+rf69_easyPoll	RF69_compat.cpp	130;"	function
+rf69_easySend	RF69_compat.cpp	158;"	function
+rf69_encrypt	RF69_compat.cpp	170;"	function
+rf69_initialize	RF69_compat.cpp	28;"	function
+rf69_onOff	RF69_compat.cpp	113;"	function
+rf69_recvDone	RF69_compat.cpp	76;"	function
+rf69_sendNow	RF69_compat.cpp	95;"	function
+rf69_sendStart	RF69_compat.cpp	88;"	function
+rf69_sendWait	RF69_compat.cpp	101;"	function
+rf69_sleep	RF69_compat.cpp	117;"	function
+rh	PortsSHT11.cpp	201;"	local
+rightToLeft	PortsLCD.cpp	151;"	function	class:LiquidCrystalBase
+rightToLeft	PortsLCD.h	75;"	prototype	class:LiquidCrystalBase
+rounds	RF12.cpp	962;"	local
+row_offsets	PortsLCD.cpp	98;"	local
+rssi	RF69.cpp	51;"	member	namespace:RF69	file:
+rxbuf	Ports.h	451;"	member	class:UartPlug
+rxfield	RF12sio.h	13;"	member	class:RF12
+rxfill	RF12.cpp	148;"	variable	file:
+rxfill	RF69.cpp	54;"	variable	file:
+rxpos	RF12sio.h	13;"	member	class:RF12
+rxstate	RF12.cpp	149;"	variable	file:
+rxstate	RF69.cpp	55;"	variable	file:
+s	Ports.cpp	1040;"	local
+save	Ports.cpp	372;"	function	class:MemoryPlug
+save	Ports.cpp	408;"	prototype	file:
+save	Ports.cpp	416;"	prototype	file:
+save	Ports.h	427;"	prototype	class:MemoryPlug
+saved	Ports.cpp	307;"	local
+sclHi	Ports.h	236;"	function	class:PortI2C
+sclLo	Ports.h	238;"	function	class:PortI2C
+scrollDisplayLeft	PortsLCD.cpp	137;"	function	class:LiquidCrystalBase
+scrollDisplayLeft	PortsLCD.h	72;"	prototype	class:LiquidCrystalBase
+scrollDisplayRight	PortsLCD.cpp	140;"	function	class:LiquidCrystalBase
+scrollDisplayRight	PortsLCD.h	73;"	prototype	class:LiquidCrystalBase
+sdaIn	Ports.h	234;"	function	class:PortI2C
+sdaOut	Ports.h	232;"	function	class:PortI2C
+select	Ports.cpp	656;"	function	class:InputPlug
+select	Ports.cpp	940;"	function	class:AnalogPlug
+select	Ports.h	566;"	prototype	class:InputPlug
+select	Ports.h	660;"	prototype	class:AnalogPlug
+send	Ports.cpp	440;"	prototype	file:
+send	Ports.cpp	449;"	prototype	file:
+send	Ports.cpp	682;"	prototype	file:
+send	Ports.cpp	708;"	prototype	file:
+send	Ports.cpp	713;"	prototype	file:
+send	Ports.cpp	770;"	prototype	file:
+send	Ports.cpp	777;"	prototype	file:
+send	Ports.cpp	782;"	prototype	file:
+send	Ports.cpp	899;"	function	class:InfraredPlug
+send	Ports.h	279;"	function	class:DeviceI2C
+send	Ports.h	596;"	prototype	class:InfraredPlug
+send	PortsLCD.cpp	281;"	function	class:LiquidCrystal
+send	PortsLCD.cpp	342;"	prototype	file:
+send	PortsLCD.cpp	349;"	prototype	file:
+send	PortsLCD.cpp	359;"	prototype	file:
+send	PortsLCD.cpp	367;"	function	class:LiquidCrystalI2C
+send	PortsLCD.cpp	376;"	prototype	file:
+send	PortsLCD.h	116;"	prototype	class:LiquidCrystal
+send	PortsLCD.h	143;"	prototype	class:LiquidCrystalI2C
+send	PortsLCD.h	85;"	prototype	class:LiquidCrystalBase
+send	RF12sio.cpp	88;"	function	class:RF12
+send	RF12sio.h	41;"	prototype	class:RF12
+sendStart_compat	RF69.cpp	198;"	function	class:RF69
+sendStart_compat	RF69.h	18;"	prototype	namespace:RF69
+sendStart_compat	RF69_compat.cpp	89;"	prototype	class:RF69	file:
+sendTimer	RF12sio.h	10;"	member	class:RF12
+sending	RF69.cpp	142;"	function	class:RF69
+sending	RF69.h	12;"	prototype	namespace:RF69
+sensitivity	Ports.cpp	614;"	function	class:GravityPlug
+sensitivity	Ports.h	550;"	prototype	class:GravityPlug
+seqNum	RF12.cpp	165;"	variable	file:
+set	Ports.cpp	263;"	function	class:MilliTimer
+set	Ports.h	328;"	prototype	class:MilliTimer
+setAddress	Ports.h	303;"	function	class:DeviceI2C
+setCursor	PortsLCD.cpp	96;"	function	class:LiquidCrystalBase
+setCursor	PortsLCD.h	80;"	prototype	class:LiquidCrystalBase
+setFrequency	RF69.cpp	124;"	function	class:RF69
+setFrequency	RF69.h	10;"	prototype	namespace:RF69
+setGain	Ports.cpp	1057;"	function	class:ColorPlug
+setGain	Ports.cpp	550;"	function	class:LuxPlug
+setGain	Ports.h	517;"	prototype	class:LuxPlug
+setGain	Ports.h	697;"	prototype	class:ColorPlug
+setMode	RF69.cpp	102;"	function	file:
+setMulti	Ports.cpp	534;"	function	class:DimmerPlug
+setMulti	Ports.h	485;"	prototype	class:DimmerPlug
+setOverSampling	PortsBMP085.h	30;"	function	class:BMP085
+setReg	Ports.cpp	527;"	function	class:DimmerPlug
+setReg	Ports.cpp	918;"	function	class:ProximityPlug
+setReg	Ports.h	484;"	prototype	class:DimmerPlug
+setReg	Ports.h	646;"	prototype	class:ProximityPlug
+setReset	Ports.h	605;"	member	class:HeadingBoard
+setup	Ports.cpp	132;"	prototype	class:RemoteHandler	file:
+setup	Ports.h	185;"	prototype	class:RemoteHandler
+setup	PortsRF12.cpp	6;"	function	class:RemoteHandler
+shift	Ports.h	153;"	function	class:Port
+shiftRead	Ports.cpp	87;"	function	class:Port
+shiftRead	Ports.h	155;"	prototype	class:Port
+shiftWrite	Ports.cpp	115;"	function	class:Port
+shiftWrite	Ports.h	156;"	prototype	class:Port
+size	RF12sio.cpp	69;"	local
+slack	RF12.cpp	20;"	macro	file:
+slack	RF12.cpp	28;"	macro	file:
+sleep	RF69.cpp	146;"	function	class:RF69
+sleep	RF69.h	13;"	prototype	namespace:RF69
+sleep	RF69_compat.cpp	118;"	prototype	class:RF69	file:
+slot	Ports.h	571;"	member	class:InfraredPlug
+slow	Ports.h	562;"	member	class:InputPlug
+softReset	PortsSHT11.cpp	135;"	function	class:SHT11
+softReset	PortsSHT11.h	31;"	prototype	class:SHT11
+spiConfigPins	RF69_avr.h	104;"	function
+spiConfigPins	RF69_avr.h	26;"	function
+spiConfigPins	RF69_avr.h	45;"	function
+spiConfigPins	RF69_avr.h	64;"	function
+spiConfigPins	RF69_avr.h	85;"	function
+spiInit	RF69_avr.h	122;"	function
+spiTransfer	RF69_avr.h	154;"	function
+spiTransferByte	RF69_avr.h	136;"	function
+start	Ports.cpp	190;"	function	class:PortI2C
+start	Ports.h	252;"	prototype	class:PortI2C
+start	Ports.h	433;"	member	class:MemoryStream
+start	PortsSHT11.cpp	107;"	function	class:SHT11
+start	PortsSHT11.h	15;"	prototype	class:SHT11
+startMeas	PortsBMP085.cpp	15;"	function	class:BMP085
+startMeas	PortsBMP085.h	34;"	prototype	class:BMP085
+startMeas	PortsBMP085.h	42;"	prototype
+state	Ports.cpp	306;"	function	class:BlinkPlug
+state	Ports.h	414;"	prototype	class:BlinkPlug
+step	Ports.cpp	1233;"	local
+step	Ports.h	434;"	member	class:MemoryStream
+stop	Ports.cpp	197;"	function	class:PortI2C
+stop	Ports.cpp	464;"	prototype	file:
+stop	Ports.cpp	496;"	prototype	file:
+stop	Ports.cpp	505;"	prototype	file:
+stop	Ports.cpp	686;"	prototype	file:
+stop	Ports.cpp	711;"	prototype	file:
+stop	Ports.cpp	718;"	prototype	file:
+stop	Ports.cpp	773;"	prototype	file:
+stop	Ports.cpp	780;"	prototype	file:
+stop	Ports.cpp	790;"	prototype	file:
+stop	Ports.h	254;"	prototype	class:PortI2C
+stop	Ports.h	287;"	function	class:DeviceI2C
+stop	Ports.h	288;"	prototype
+stop	PortsLCD.cpp	345;"	prototype	file:
+stop	PortsLCD.cpp	352;"	prototype	file:
+stop	PortsLCD.cpp	362;"	prototype	file:
+stop	PortsLCD.cpp	381;"	prototype	file:
+sum	Ports.cpp	1045;"	local
+sum	RF12.cpp	961;"	local
+t	Ports.cpp	1051;"	local
+t	Ports.cpp	972;"	local
+tasks	Ports.h	370;"	member	class:Scheduler
+temp	Ports.cpp	609;"	local
+temp	Ports.cpp	648;"	local
+temperature	Ports.cpp	644;"	function	class:GravityPlug
+temperature	Ports.h	557;"	prototype	class:GravityPlug
+ticks	Ports.cpp	846;"	local
+timer	Ports.cpp	1006;"	local
+timer	Ports.cpp	1245;"	function	class:Scheduler
+timer	Ports.h	388;"	prototype	class:Scheduler
+times	Ports.cpp	999;"	local	file:
+tmp	Ports.cpp	785;"	local
+to	RF12sio.h	59;"	function	class:RF12
+top	Ports.h	738;"	member	class:InputParser
+txPending	RF12sio.h	11;"	member	class:RF12
+txbase	RF12sio.h	11;"	member	class:RF12
+txbuf	RF12sio.h	12;"	member	class:RF12
+txfields	RF12sio.h	11;"	member	class:RF12
+txfill	RF12sio.h	11;"	member	class:RF12
+type	RF12sio.cpp	35;"	local
+type	RF12sio.cpp	51;"	local
+up	PortsBMP085.cpp	56;"	local
+us	Ports.cpp	666;"	local
+uswait	Ports.h	214;"	member	class:PortI2C
+ut	PortsBMP085.cpp	56;"	local
+v	Ports.cpp	391;"	local
+v	Ports.cpp	540;"	local
+v	Ports.cpp	883;"	local
+v	PortsBMP085.h	13;"	local
+v	RF12.cpp	961;"	local
+v	RF12sio.h	23;"	local
+val	Ports.h	101;"	local
+val	Ports.h	148;"	local
+value	Ports.cpp	88;"	local
+value	Ports.h	112;"	local
+value	Ports.h	137;"	local
+value	Ports.h	154;"	local
+value	Ports.h	740;"	member	class:InputParser
+value	Ports.h	90;"	local
+value	PortsSHT11.cpp	144;"	local
+value	PortsSHT11.cpp	89;"	local
+w	Ports.h	490;"	member	union:LuxPlug::__anon5
+w	Ports.h	540;"	member	union:GravityPlug::__anon7
+w	Ports.h	677;"	member	union:ColorPlug::__anon10
+waitAck	PortsSHT11.h	13;"	prototype	class:SHT11
+watchdogCounter	Ports.cpp	1101;"	variable	file:
+watchdogEvent	Ports.cpp	1181;"	function	class:Sleepy
+watchdogEvent	Ports.h	365;"	prototype	class:Sleepy
+watchdogInterrupts	Ports.cpp	1104;"	function	class:Sleepy
+watchdogInterrupts	Ports.h	344;"	prototype	class:Sleepy
+wdp	Ports.cpp	1152;"	local
+wdtcsr	Ports.cpp	1113;"	local
+whitening	RF12.cpp	170;"	variable
+write	Ports.cpp	203;"	function	class:PortI2C
+write	Ports.cpp	441;"	prototype	file:
+write	Ports.cpp	442;"	prototype	file:
+write	Ports.cpp	450;"	prototype	file:
+write	Ports.cpp	503;"	function	class:UartPlug
+write	Ports.cpp	683;"	prototype	file:
+write	Ports.cpp	772;"	prototype	file:
+write	Ports.h	258;"	prototype	class:PortI2C
+write	Ports.h	293;"	function	class:DeviceI2C
+write	Ports.h	464;"	prototype	class:UartPlug
+write	PortsLCD.cpp	184;"	function	class:LiquidCrystalBase
+write	PortsLCD.cpp	343;"	prototype	file:
+write	PortsLCD.cpp	350;"	prototype	file:
+write	PortsLCD.cpp	351;"	prototype	file:
+write	PortsLCD.cpp	360;"	prototype	file:
+write	PortsLCD.cpp	377;"	prototype	file:
+write	PortsLCD.cpp	378;"	prototype	file:
+write	PortsLCD.cpp	380;"	prototype	file:
+write	PortsLCD.h	81;"	prototype	class:LiquidCrystalBase
+write4bits	PortsLCD.cpp	306;"	function	class:LiquidCrystal
+write4bits	PortsLCD.cpp	374;"	function	class:LiquidCrystalI2C
+write4bits	PortsLCD.h	117;"	prototype	class:LiquidCrystal
+write4bits	PortsLCD.h	144;"	prototype	class:LiquidCrystalI2C
+write4bits	PortsLCD.h	86;"	prototype	class:LiquidCrystalBase
+write8bits	PortsLCD.cpp	315;"	function	class:LiquidCrystal
+write8bits	PortsLCD.h	119;"	prototype	class:LiquidCrystal
+writeByte	PortsSHT11.cpp	72;"	function	class:SHT11
+writeByte	PortsSHT11.h	12;"	prototype	class:SHT11
+writeReg	RF69.cpp	89;"	function	file:
+writeStatus	PortsSHT11.cpp	149;"	function	class:SHT11
+writeStatus	PortsSHT11.h	34;"	prototype	class:SHT11
+x	Ports.cpp	808;"	local
+x1	PortsBMP085.cpp	57;"	local
+x2	PortsBMP085.cpp	57;"	local
+x3	PortsBMP085.cpp	57;"	local
+y	Ports.cpp	810;"	local
+y	RF12.cpp	961;"	local
+z	RF12.cpp	961;"	local
+~PreventInterrupt	RF69_avr.h	119;"	function	struct:PreventInterrupt
